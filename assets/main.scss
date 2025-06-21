@@ -1,0 +1,64 @@
+@import "minima";
+
+// Custom styles for UnlockGPU
+.site-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-bottom: 3px solid #4a5568;
+}
+
+.site-title {
+  color: white !important;
+  font-weight: bold;
+}
+
+.site-nav .page-link {
+  color: white !important;
+}
+
+.site-nav .page-link:hover {
+  color: #e2e8f0 !important;
+}
+
+.page-content {
+  padding: 2rem 0;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+h1, h2, h3 {
+  color: #2d3748;
+}
+
+.call-to-action {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.call-to-action h2 {
+  color: white;
+  margin-top: 0;
+}
+
+.btn {
+  display: inline-block;
+  background: #48bb78;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
+.btn:hover {
+  background: #38a169;
+  color: white;
+} 

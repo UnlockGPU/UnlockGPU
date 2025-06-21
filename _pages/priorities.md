@@ -1,18 +1,23 @@
+---
+layout: page
+title: "Developer Priorities - Technical Requirements"
+permalink: /priorities/
+---
 
 # UnlockGPU: Developer Priorities Document
 
-*This is a living document that captures the key technical priorities, pain points, and expectations from the developer community for AMD’s GPU software stack (ROCm, HIP, drivers, libraries, tooling). It complements the [Unlock the GPU Manifesto](https://unlockgpu.com/) by grounding its demands in concrete, evolving needs. PRs and issue reports welcome.*
+*This is a living document that captures the key technical priorities, pain points, and expectations from the developer community for AMD's GPU software stack (ROCm, HIP, drivers, libraries, tooling). It complements the [Unlock the GPU Manifesto](https://unlockgpu.com/) by grounding its demands in concrete, evolving needs. PRs and issue reports welcome.*
 
 ---
 
 ## 1. **Supported Hardware: Stability, Breadth, and Predictability**
 
 **Problem:**  
-ROCm historically supports a limited set of “blessed” GPUs, often dropping older or consumer-tier cards prematurely. On the consumer side, persistent instability and fragile support ecosystems undermine trust, even with the latest hardware. Instability in the Adrenalin driver suite continues to be a pain point, with users reporting black screens, timeouts, and performance drops even on recent cards ([Ongoing Struggles](https://community.amd.com/t5/pc-drivers-software/the-ongoing-struggles-with-amd-drivers/td-p/695257)).
+ROCm historically supports a limited set of "blessed" GPUs, often dropping older or consumer-tier cards prematurely. On the consumer side, persistent instability and fragile support ecosystems undermine trust, even with the latest hardware. Instability in the Adrenalin driver suite continues to be a pain point, with users reporting black screens, timeouts, and performance drops even on recent cards ([Ongoing Struggles](https://community.amd.com/t5/pc-drivers-software/the-ongoing-struggles-with-amd-drivers/td-p/695257)).
 
 **Priorities:**
-- Ensure ROCm and driver support cover **widely available consumer GPUs** (e.g., RX 6000/7000 series) and latest APUs, not just data center SKUs.
-- **Support lifecycles** of at least 5 years for compute-enabled GPUs; avoid “silent” removals in point releases.
+- Ensure ROCm and driver support cover widely available consumer GPUs (e.g., RX 6000/7000 series) and latest APUs, not just data center SKUs.
+- **Support lifecycles** of at least 5 years for compute-enabled GPUs; avoid "silent" removals in point releases.
 - **Address driver stability as a top strategic priority**: invest in automated, diverse regression testing across a broad matrix of hardware/software configs.
 - Publish **clear support/deprecation roadmaps** for all drivers (consumer and enterprise).
 - Expand open-source contributions and collaboration (learn from Linux/Mesa success: [Linux open source vs proprietary drivers](https://www.reddit.com/r/linux_gaming/comments/149eksh/open_source_vs_proprietary_amd_drivers/)).
@@ -31,11 +36,11 @@ ROCm setup is fragile; driver install/updates on Windows often cause conflicts (
 - Provide **well-maintained containers** for major frameworks (PyTorch, TensorFlow, etc.).
 - Ship robust, user-friendly install managers (e.g., [AMD Install Manager](https://www.amd.com/en/products/software/adrenalin.html)) with self-healing/diagnostic features that proactively detect conflicts and guide users.
 - Support **LTS Linux distributions on release day**, and **official Windows support** (see section 3).
-- Prioritize “it just works” experiences (see [Mesa/Linux success](https://forum.manjaro.org/t/should-i-install-the-amdgpu-pro-or-open-source-driver-or-should-i-stay-on-the-video-linux-driver/133823)).
+- Prioritize "it just works" experiences (see [Mesa/Linux success](https://forum.manjaro.org/t/should-i-install-the-amdgpu-pro-or-open-source-driver-or-should-i-stay-on-the-video-linux-driver/133823)).
 - Collect anonymous telemetry (opt-in) to spot and fix common edge cases quickly.
 
 **Why this matters:**  
-First impressions matter. “NVIDIA just works” is the benchmark. If users feel anxiety or dread about AMD driver updates, adoption stalls.
+First impressions matter. "NVIDIA just works" is the benchmark. If users feel anxiety or dread about AMD driver updates, adoption stalls.
 
 ---
 
@@ -57,7 +62,7 @@ Most developers use Windows. Without reliable support, the default is always CUD
 ## 4. **Library and Ecosystem Parity**
 
 **Problem:**  
-Even when base frameworks run, ROCm lacks the ecosystem depth and compatibility of CUDA. Many ML libraries and new kernels (FlashAttention, LoRA, JAX, etc.) don’t work out of the box ([HPCwire: ROCm libraries](https://www.hpcwire.com/off-the-wire/amd-expands-rocm-6-3-with-optimized-libraries-for-ai-and-hpc-workflows/)).
+Even when base frameworks run, ROCm lacks the ecosystem depth and compatibility of CUDA. Many ML libraries and new kernels (FlashAttention, LoRA, JAX, etc.) don't work out of the box ([HPCwire: ROCm libraries](https://www.hpcwire.com/off-the-wire/amd-expands-rocm-6-3-with-optimized-libraries-for-ai-and-hpc-workflows/)).
 
 **Priorities:**
 - **Invest in ROCm-native or compatible versions** of high-demand libraries and kernels.
@@ -66,7 +71,7 @@ Even when base frameworks run, ROCm lacks the ecosystem depth and compatibility 
 - Contribute upstream to PyTorch, Triton, Hugging Face, and more.
 
 **Why this matters:**  
-The AI/ML world moves fast. If ROCm isn’t compatible with next month’s breakthrough, users switch back to CUDA ([Reddit: ROCm 7 roadmap](https://www.reddit.com/r/ROCm/comments/1l00mis/amd_rocm_70_to_align_hip_c_even_more_closely_with/)).
+The AI/ML world moves fast. If ROCm isn't compatible with next month's breakthrough, users switch back to CUDA ([Reddit: ROCm 7 roadmap](https://www.reddit.com/r/ROCm/comments/1l00mis/amd_rocm_70_to_align_hip_c_even_more_closely_with/)).
 
 ---
 
@@ -93,7 +98,7 @@ No one wants to be an unpaid beta tester or spend hours troubleshooting for basi
 Developers feel burned by unclear communication, shifting support, and lack of follow-up ([Ongoing Struggles](https://community.amd.com/t5/pc-drivers-software/the-ongoing-struggles-with-amd-drivers/td-p/695257)).
 
 **Priorities:**
-- Maintain a **public developer roadmap** and “known issues” tracker.
+- Maintain a **public developer roadmap** and "known issues" tracker.
 - Publish changelogs with impact statements (including support drops/adds).
 - Host regular community updates (livestreams, Q&A, GitHub AMAs).
 - Fund bug bounties and OSS contributions.
@@ -115,11 +120,11 @@ Fragmentation across CUDA, HIP, SYCL, OpenCL, Vulkan slows adoption and fragment
 - Collaborate with Intel and others for a unified open alternative to CUDA.
 
 **Why this matters:**  
-Open standards are the way out of single-vendor lock-in. AMD’s future is to be the best option in a connected ecosystem—not just the “second” or cheapest.
+Open standards are the way out of single-vendor lock-in. AMD's future is to be the best option in a connected ecosystem—not just the "second" or cheapest.
 
 ---
 
-*Maintained by the UnlockGPU community. The next 18–24 months are critical: AMD’s dual-front war for developer trust and software maturity will shape the future of open GPU computing.*
+*Maintained by the UnlockGPU community. The next 18–24 months are critical: AMD's dual-front war for developer trust and software maturity will shape the future of open GPU computing.*
 
 ---
 

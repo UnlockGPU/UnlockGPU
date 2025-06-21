@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Why $220M? - Budget Rationale"
+permalink: /why220m/
+---
+
 # Why $220M: Justifying the Budget to Unlock AMD's Software Potential
 
 ## Executive Summary

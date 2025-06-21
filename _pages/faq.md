@@ -1,3 +1,9 @@
+---
+layout: page
+title: "FAQ - Frequently Asked Questions"
+permalink: /faq/
+---
+
 # FAQ
 
 ## Table of Contents

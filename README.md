@@ -4,6 +4,56 @@
 
 This repository contains all materials for the [**Unlock the GPU**](https://unlockgpu.com/) campaign—a developer-investor alliance working to break NVIDIA's CUDA monopoly by pressuring AMD to fix their software ecosystem.
 
+## 🌐 Website
+
+This repository is set up as a **GitHub Pages site** using Jekyll. The website is automatically built and deployed when you push to the main branch.
+
+### Local Development
+
+To run the site locally:
+
+1. **Install Ruby and Bundler** (if not already installed):
+   ```bash
+   # On Ubuntu/Debian
+   sudo apt-get install ruby-full build-essential
+   sudo gem install bundler
+   
+   # On macOS (using Homebrew)
+   brew install ruby
+   gem install bundler
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   bundle install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+4. **View the site** at `http://localhost:4000`
+
+### GitHub Pages Setup
+
+1. **Enable GitHub Pages** in your repository settings:
+   - Go to Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: main
+   - Folder: / (root)
+
+2. **The site will be available at**: `https://yourusername.github.io/UnlockGPU/`
+
+### Site Structure
+
+- **Homepage**: `index.md` (Manifesto)
+- **Pages**: Located in `_pages/` directory
+  - FAQ: `/faq/`
+  - Priorities: `/priorities/`
+  - Activism Guide: `/activism/`
+  - Why $220M?: `/why220m/`
+
 ---
 
 ## 📖 Campaign Documents
@@ -50,6 +100,7 @@ This repository contains all materials for the [**Unlock the GPU**](https://unlo
 2. **Add technical input**: Contribute to [Priorities.md](Priorities.md)
 3. **Share expertise**: Open issues with insights or resources
 4. **Connect networks**: Help us reach developers, investors, and activists
+5. **Improve the website**: Submit PRs for better design, content, or functionality
 
 ---
 
