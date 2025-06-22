@@ -14,6 +14,8 @@ NVIDIA's CUDA monopoly traps the GPU world. AMD has the hardware to compete—bu
 
 Every GPU developer knows the story: AMD's hardware delivers, but the software ecosystem is fractured. Instability, poor compatibility, incomplete tools, and years of broken promises have killed trust. We know exactly what needs fixing—seamless installs, stable drivers, true CUDA parity, real docs—but AMD's track record says "don't get your hopes up."
 
+The technical reality is stark: 25% of AI models fail accuracy tests on AMD hardware, critical features like Flash Attention 2 and vLLM FP8 quantization are missing on consumer GPUs, and Windows installation remains a "nightmare" requiring extensive workarounds. ROCm has earned the community nickname "the Dark Souls of machine learning"—technically possible but brutally difficult.
+
 **2. AMD Understands the Opportunity, But Can't Rebuild Trust Alone**
 
 AMD's leadership understands what's at stake. Billions in revenue, cloud/data center wins, and a shot at breaking NVIDIA's grip. But years of software failure created a credibility gap no press release can fix. Developers tune out the promises. Progress, if any, is lost in the noise. AMD needs independent validation and accountability.
@@ -28,7 +30,9 @@ NVIDIA's monopoly is only breakable when real, open competition exists. Our camp
 
 Our campaign creates a unified feedback loop: developer requirements **build trust** through technical legitimacy, shareholder actions **create accountability** that can't be ignored or spun, and we **educate markets** about the fixable bottleneck and massive opportunity.
 
-We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. Without grassroots adoption, there is no ecosystem. Consumer support drives enterprise adoption, not the reverse.
+**AMD's Ecosystem Inversion Problem:** AMD powers the world's fastest supercomputers (El Capitan and Frontier) and 34% of Top500 systems, yet consumer developers face installation nightmares and missing critical features. This creates a dangerous ecosystem inversion where enterprise leads but grassroots innovation suffers. Without grassroots adoption, there is no sustainable ecosystem. Consumer support drives enterprise adoption, not the reverse.
+
+We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. AMD's neglect of consumer GPU software support (including upcoming RDNA4) represents massive unfulfilled potential for competitively priced hardware.
 
 Unlike typical open source advocacy campaigns that suffer from chronic underfunding and volunteer burnout, this campaign is potentially hugely lucrative for participants. If AMD's software ecosystem improves and breaks NVIDIA's monopoly, shareholders could see massive returns as AMD captures market share in the exploding AI/compute sector. While the created value will be difficult to capture entirely by the campaign participants, the scale will be enormous—creating powerful financial incentives for sustained campaign participation and investment.
 
@@ -38,10 +42,10 @@ This is not just advocacy. It's a strategic framework for real change. We don't 
 
 ## The Investment Opportunity
 
-- The "Nvidia Tax": NVIDIA charges up to 5x hardware cost—because it can.
-- AMD's Hidden Potential: The hardware is strong; the missing piece is a seamless, developer-friendly stack.
-- Exploding Demand: The AI/compute boom means any AMD software win translates into major market gains.
-- Market Mispricing: The market doesn't yet price in what happens when AMD fixes the software bottleneck. The upside is enormous for early movers. 
+- **The "Nvidia Tax"**: NVIDIA charges up to 5x hardware cost—because it can.
+- **AMD's Hidden Potential**: The hardware is strong; the missing piece is a seamless, developer-friendly stack.
+- **Exploding Demand**: The AI/compute boom means any AMD software win translates into major market gains.
+- **Market Mispricing**: The market doesn't yet price in what happens when AMD fixes the software bottleneck. The 25% model failure rate represents massive untapped market potential. AMD's own 20x efficiency target by 2030 requires software ecosystem success.
 
 ## Our Demands
 
@@ -49,7 +53,7 @@ This is not just advocacy. It's a strategic framework for real change. We don't 
 Allocate a protected annual budget of $200 million specifically for ROCm development, driver stability, and CUDA compatibility tools, with funds ring-fenced from general R&D cuts. This budget must be maintained for a minimum of 5 years and reported separately in quarterly earnings calls.
 
 2. **Mandatory Driver Support for Consumer Hardware**
-Provide full ROCm support for all consumer GPUs from RX 6000 series onward within 12 months, with commit-level guarantees for 5-year support lifecycles. Establish and fund a dedicated consumer GPU software team with measurable performance targets.
+Provide full ROCm support for all consumer GPUs from RX 6000 series onward within 12 months, with commit-level guarantees for 5-year support lifecycles. Establish and fund a dedicated consumer GPU software team with measurable performance targets. Address critical missing features including Flash Attention 2, vLLM FP8, and bitsandbytes quantization support for RDNA3 and future architectures.
 
 3. **Binding Community Governance Structure**
 Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $20 million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
@@ -57,7 +61,7 @@ Create a Developer Advisory Board with voting rights on ROCm roadmap priorities,
 The Board will adopt and maintain the existing community-generated [Developer Priorities Document]({{ site.baseurl }}/priorities/), evolving it transparently with developer input. Publish binding quarterly progress reports against these community-defined milestones.
 
 4. **Executive Accountability and Public Commitment**
-Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores.
+Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores. Address the current accuracy crisis where 25% of AI models fail tests on AMD hardware.
 
 Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/why220m/)
 
