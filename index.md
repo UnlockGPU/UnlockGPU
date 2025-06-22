@@ -54,6 +54,8 @@ Provide full ROCm support for all consumer GPUs from RX 6000 series onward withi
 3. **Binding Community Governance Structure**
 Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $20 million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
 
+The Board will adopt and maintain the existing community-generated [Developer Priorities Document]({{ site.baseurl }}/priorities/), evolving it transparently with developer input. Publish binding quarterly progress reports against these community-defined milestones.
+
 4. **Executive Accountability and Public Commitment**
 Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores.
 
@@ -63,25 +65,23 @@ Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/wh
 
 *This plan is a starting point—join us to shape and refine it further. But some parts of it will happen regardless of the support we gain.*
 - Shareholder Action: File a non-binding resolution at AMD's 2026 meeting. Enlist activist investor allies.
-- Developer Coalition: Launch #UnlockGPU, unite developer voices, and prioritize a technical wishlist.
+- Developer Coalition: Launch #UnlockGPU, unite developer voices, and prioritize 
+a technical wishlist. We're already collecting technical input—see
+[Developer Priorities Document](/priorities/)
 - Strategic Pressure: Demand quarterly progress and push for AMD to collaborate on open, cross-vendor standards (SYCL, etc.).
+
 
 ## How to Join
 
-### Developers:
-- Submit specific technical pain points and feature requests
-- Help draft the shareholder resolution
-- Share your stories and spread #UnlockGPU
+**Everyone:** This campaign is open-source from top to bottom. Submit improvements or new ideas directly on GitHub ([https://github.com/UnlockGPU/UnlockGPU]), share your story, spread #UnlockGPU, and participate in open discussions. Every core document is open for your Pull Requests.
 
-### Shareholders:
-- Buy AMD shares
-- Vote and submit proposals
-- Register at UnlockGPU.org (coming soon) for updates
+**Developers:** Add technical pain points and solutions directly to the [Developer Priorities Document](/priorities/).
 
-### Activist Investors:
-- Partner to maximize leverage
-- Contribute resolution language, timing, and media strategy
-- Connect us with major shareholders and industry players
+**Shareholders:** Buy AMD shares (even small amounts count), pledge your vote for our 2026 resolution at UnlockGPU.org (coming soon), join our voting coordination network for reminders and instructions, and spread the word to other AMD shareholders.
+
+**Activists & Investors:** Bring strategic experience in resolution language and campaign tactics, partner to maximize leverage, and connect us with major shareholders and industry players.
+
+*This campaign is built in the open. Make your mark on the movement.*
 
 
 ## The Payoff
@@ -91,12 +91,4 @@ Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/wh
 
 ---
 **The time for action is now.** Developers know what's broken. Investors can unlock the value. Join us: vote, organize, and build the future.
-
-<div class="call-to-action">
-  <h2>Ready to Join the Movement?</h2>
-  <p>Help us break NVIDIA's CUDA monopoly and unlock AMD's potential.</p>
-  <a href="{{ site.baseurl }}/faq/" class="btn">Learn More</a>
-  <a href="{{ site.baseurl }}/priorities/" class="btn">View Technical Priorities</a>
-  <a href="{{ site.baseurl }}/activism/" class="btn">Get Involved</a>
-</div>
 
