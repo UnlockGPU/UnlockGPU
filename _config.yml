@@ -1,7 +1,7 @@
 title: Unlock the GPU
 description: A developer-investor alliance working to break NVIDIA's CUDA monopoly by pressuring AMD to fix their software ecosystem
 url: "https://unlockgpu.com"
-baseurl: ""
+baseurl: "/UnlockGPU"
 
 # Build settings
 markdown: kramdown

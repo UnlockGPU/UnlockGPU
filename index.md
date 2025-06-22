@@ -32,9 +32,9 @@ We understand that ecosystem dominance starts from the grassroots. Support for a
 
 Unlike typical open source advocacy campaigns that suffer from chronic underfunding and volunteer burnout, this campaign is potentially hugely lucrative for participants. If AMD's software ecosystem improves and breaks NVIDIA's monopoly, shareholders could see massive returns as AMD captures market share in the exploding AI/compute sector. While the created value will be difficult to capture entirely by the campaign participants, the scale will be enormous—creating powerful financial incentives for sustained campaign participation and investment.
 
-This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?](/faq#actual-force)
+This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?]({{ site.baseurl }}/faq#actual-force)
 
-*(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/shareholder-activism) of how this strategy works in practice.)*
+*(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation]({{ site.baseurl }}/activism/) of how this strategy works in practice.)*
 
 ## The Investment Opportunity
 
@@ -57,7 +57,7 @@ Create a Developer Advisory Board with voting rights on ROCm roadmap priorities,
 4. **Executive Accountability and Public Commitment**
 Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores.
 
-Here is our rationale for the proposed budget:[Why $220M?](why_220M.md)
+Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/why220m/)
 
 ## Preliminary Action Plan
 
@@ -95,8 +95,8 @@ Here is our rationale for the proposed budget:[Why $220M?](why_220M.md)
 <div class="call-to-action">
   <h2>Ready to Join the Movement?</h2>
   <p>Help us break NVIDIA's CUDA monopoly and unlock AMD's potential.</p>
-  <a href="/faq/" class="btn">Learn More</a>
-  <a href="/priorities/" class="btn">View Technical Priorities</a>
-  <a href="/activism/" class="btn">Get Involved</a>
+  <a href="{{ site.baseurl }}/faq/" class="btn">Learn More</a>
+  <a href="{{ site.baseurl }}/priorities/" class="btn">View Technical Priorities</a>
+  <a href="{{ site.baseurl }}/activism/" class="btn">Get Involved</a>
 </div>
 

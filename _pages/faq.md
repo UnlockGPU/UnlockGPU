@@ -53,7 +53,7 @@ We're not just making noise—we're using formal shareholder activism, which is 
 
 Our unique advantage is combining developer expertise with investor pressure—making our demands technically credible and financially legitimate.
 
-For detailed explanation of our shareholder activism strategy, see [Shareholder Activism: How You Can Force Real Change](Activism.md).
+For detailed explanation of our shareholder activism strategy, see [Shareholder Activism: How You Can Force Real Change]({{ site.baseurl }}/activism/).
 
 <a id="why-amd"></a>
 
@@ -192,7 +192,7 @@ Based on our research of internet forums and developer discussions, we've identi
 - Poor communication about roadmaps and deprecation plans
 - Lack of transparent progress reporting
 
-For detailed technical priorities, see our [Developer Priorities Document](Priorities.md).
+For detailed technical priorities, see our [Developer Priorities Document]({{ site.baseurl }}/priorities/).
 
 <a id="rocm-vs-cuda"></a>
 ## Q: How is AMD's ROCm different from CUDA, and why does it matter?
