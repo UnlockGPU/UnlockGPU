@@ -1,0 +1,59 @@
+**Research Objective:** Generate a comprehensive background report on developer
+*and user sentiment toward AMD GPU software ecosystem, focusing on barriers to
+*adoption and opportunities for improvement.
+
+**Scope & Timeline:** 
+- Primary focus: 2022-2024 (recent experiences and current pain points) -
+Secondary: Historical context from 2018-2021 for trend analysis - Include both
+individual developers and enterprise/institutional perspectives
+
+**Key Software Areas to Investigate:**
+1. **ROCm Platform** - Installation, compatibility, stability, performance vs
+CUDA 2. **GPU Drivers** - Linux and Windows stability, gaming vs compute
+workloads 3. **Development Tools** - Debuggers, profilers, IDEs, documentation
+quality 4. **CUDA Compatibility** - HIP, translation tools, migration
+experiences 5. **AI/ML Frameworks** - PyTorch, TensorFlow, Hugging Face
+integration 6. **Consumer GPU Support** - RX 6000/7000 series software support
+gaps
+
+**Sources to Search:**
+- **Developer Forums:** Stack Overflow, AMD Developer Community, GitHub issues -
+**Social Platforms:** Reddit (r/AMD, r/MachineLearning, r/LocalLLaMA,
+r/gamedev), Hacker News, Twitter/X - **Professional Networks:** LinkedIn
+developer groups, Discord servers (AMD, AI/ML communities) - **Specialized
+Communities:** ROCm GitHub discussions, OpenCL forums, Phoronix comments -
+**Academic/Research:** University HPC forums, research computing mailing lists
+
+**Specific Pain Points to Document:**
+- Installation and setup difficulties ("It just doesn't work" stories) -
+Performance comparisons with NVIDIA alternatives - Compatibility issues with
+popular frameworks - Documentation gaps and quality issues - Consumer GPU
+support limitations - Driver stability problems - Migration challenges from CUDA
+
+**Analysis Framework:**
+1. **Sentiment Analysis:** Categorize opinions as Positive/Neutral/Negative with
+reasoning 2. **Pain Point Frequency:** Rank most commonly mentioned issues 3.
+**Solution Suggestions:** Collect developer-proposed fixes and improvements 4.
+**Success Stories:** Document cases where AMD software worked well 5. **Trend
+Analysis:** Compare recent vs. historical sentiment 6. **Demographic Insights:**
+Academic vs. industry vs. hobbyist perspectives
+
+**Output Structure:**
+- Executive Summary (key findings, overall sentiment trend) - Detailed Pain
+Points Analysis (with specific examples and quotes) - Developer Solution
+Recommendations (community-suggested improvements) - Competitive Analysis
+(direct NVIDIA/CUDA comparisons) - Market Opportunity Assessment (unmet needs,
+potential wins) - Appendix: Raw data, sources, methodology
+
+**Special Focus Areas:**
+- Grassroots developer adoption barriers (aligns with campaign's emphasis on
+accessible hardware) - Enterprise adoption blockers - Open source project
+maintainer experiences - Impact on smaller developers vs. large organizations -
+Regional differences in adoption and sentiment
+
+**Quality Criteria:**
+- Prioritize recent, detailed technical feedback over generic complaints -
+Include both positive and negative perspectives for balance - Focus on
+actionable, specific issues rather than vague criticisms - Verify claims where
+possible with technical documentation - Distinguish between hardware and
+software-related issues
