@@ -341,7 +341,7 @@ This isn't just asking politely—it's using the formal mechanisms of corporate 
 **A:**
 
 To be honest so far it is just me - Zbigniew Łukasiak [my AI related blog](https://zzbbyy.substack.com/), 
-plus a friend who holds AMD shares for over a year and who promiste do file the shareholder resolution (I hold them too but not long enough).
+plus a friend who holds AMD shares for over a year and who promised do file the shareholder resolution (I hold them too but not long enough).
 
 I am looking for allies.
 

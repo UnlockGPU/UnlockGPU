@@ -4,8 +4,6 @@ title: "Unlock the GPU - A Manifesto for a Developer–Investor Alliance"
 permalink: /
 ---
 
-# Unlock the GPU 
-
 ### A Manifesto for a Developer–Investor Alliance to Open Compute and Unleash AMD's Value
 
 ## The Three-Part Problem
@@ -98,7 +96,7 @@ Here is our rationale for the proposed budget:[Why $220M?](why_220M.md)
   <h2>Ready to Join the Movement?</h2>
   <p>Help us break NVIDIA's CUDA monopoly and unlock AMD's potential.</p>
   <a href="/faq/" class="btn">Learn More</a>
-  <a href="/priorities/" class="btn">View Priorities</a>
+  <a href="/priorities/" class="btn">View Technical Priorities</a>
   <a href="/activism/" class="btn">Get Involved</a>
 </div>
 

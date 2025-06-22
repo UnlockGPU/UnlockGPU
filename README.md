@@ -50,8 +50,8 @@ To run the site locally:
 - **Homepage**: `index.md` (Manifesto)
 - **Pages**: Located in `_pages/` directory
   - FAQ: `/faq/`
-  - Priorities: `/priorities/`
-  - Activism Guide: `/activism/`
+  - Technical Priorities: `/priorities/`
+  - Shareholder Activism: `/activism/`
   - Why $220M?: `/why220m/`
 
 ---
@@ -62,8 +62,8 @@ To run the site locally:
 |----------|-------------|
 | **[📋 Manifesto](Manifesto.md)** | Complete campaign strategy, problem analysis, and demands |
 | **[❓ FAQ](FAQ.md)** | Frequently asked questions and detailed explanations |
-| **[🎯 Priorities](Priorities.md)** | Technical requirements from the developer community |
-| **[📢 Activism Guide](Activism.md)** | Explanation of shareholder activism for developers |
+| **[🎯 Technical Priorities](Priorities.md)** | Technical priorities from the developer community |
+| **[📢 Shareholder Activism](Activism.md)** | Explanation of shareholder activism for developers |
 
 ---
 
