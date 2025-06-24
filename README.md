@@ -47,7 +47,7 @@ To run the site locally:
 
 ### GitHub Pages Setup
 
-1. **Enable GitHub Pages** in your repository settings:
+1. **Enable GitHub Pages** in your repository settings/UnlockGPU:
    - Go to Settings → Pages
    - Source: Deploy from a branch
    - Branch: main
