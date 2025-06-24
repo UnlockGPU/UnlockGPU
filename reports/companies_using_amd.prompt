@@ -1,0 +1,198 @@
+# Research Prompt: Companies Using AMD GPUs - Specific Case Studies
+
+## Objective
+Find specific, named companies, organizations, and teams that have used or attempted to use AMD GPUs for AI/ML workloads, and document their concrete complaints about software maturity, reliability, and ecosystem gaps. Focus on real companies with verifiable sources, not general developer sentiment.
+
+## Target Companies to Research
+
+### Cloud Providers and Infrastructure
+**Search for AMD-specific mentions from:**
+- AWS (Amazon Web Services) - Look for AMD instance offerings, customer feedback, limitations
+- Google Cloud Platform - AMD GPU instances, any disclosed issues
+- Microsoft Azure - AMD offerings, customer complaints
+- Oracle Cloud - AMD GPU deployments
+- DigitalOcean, Linode, Vultr - Any AMD GPU offerings and issues
+- Specialized AI cloud providers (Lambda Labs, CoreWeave, etc.)
+
+### AI/ML Companies and Research Labs
+**Search for public statements about AMD GPU experiences from:**
+- Meta/Facebook - AI research, production deployments
+- OpenAI - Infrastructure choices, any AMD trials
+- Anthropic - Compute infrastructure decisions
+- Stability AI - AMD GPU usage in image generation
+- Hugging Face - Platform infrastructure, customer support
+- Cohere, AI21, Aleph Alpha - Any AMD GPU deployments
+- DeepMind, Google AI - Research infrastructure choices
+- Microsoft AI, Azure AI - Internal AMD usage
+- Amazon AI - AWS AI services infrastructure
+
+### Enterprise and Industry-Specific Companies
+**Financial Services:**
+- JPMorgan Chase, Goldman Sachs, Morgan Stanley - Trading algorithms, risk modeling
+- Two Sigma, Renaissance Technologies, Citadel - Quantitative trading
+- Bloomberg, Reuters - Financial data processing
+
+**Healthcare and Medical:**
+- Johnson & Johnson, Pfizer, Moderna - Drug discovery, protein folding
+- GE Healthcare, Siemens Healthineers - Medical imaging
+- Tempus, Flatiron Health - Healthcare AI
+- Insitro, Recursion Pharmaceuticals - Drug discovery AI
+
+**Gaming and Entertainment:**
+- Electronic Arts, Activision Blizzard, Ubisoft - Game development, rendering
+- Netflix, Disney, Warner Bros - Content creation, recommendation systems
+- Unity, Epic Games - Game engine development
+- Roblox, Minecraft - Platform infrastructure
+
+**Autonomous Vehicles:**
+- Tesla, Waymo, Cruise, Aurora - Self-driving AI
+- Mobileye, NVIDIA Automotive - ADAS systems
+- Traditional automakers (GM, Ford, BMW) - AI development
+
+**Other Industries:**
+- Oil & Gas (Exxon, Shell, BP) - Seismic analysis, exploration
+- Aerospace (Boeing, Airbus, SpaceX) - Simulation, design
+- Manufacturing (Siemens, GE, 3M) - Industrial AI
+- Retail (Amazon, Walmart, Target) - Recommendation systems, logistics
+
+### Academic and Research Institutions
+**Universities and National Labs:**
+- MIT, Stanford, Berkeley, CMU - AI research infrastructure
+- National labs (Oak Ridge, Argonne, Lawrence Livermore) - HPC deployments
+- European research institutions (CERN, Max Planck, etc.)
+- Asian research institutions (RIKEN, KAIST, etc.)
+
+## Search Strategy
+
+### Phase 1: Direct Company Documentation
+**Search for:**
+- Company blog posts mentioning AMD GPU challenges
+- Engineering team posts about infrastructure decisions
+- Technical presentations at conferences
+- Job postings mentioning AMD GPU experience
+- Patent filings mentioning compute infrastructure
+- Annual reports mentioning technology investments
+
+**Specific search queries:**
+1. `site:company.com "AMD GPU" ("failed" OR "problems" OR "switched" OR "challenges")`
+2. `site:engineering.company.com "ROCm" ("not ready" OR "production issues")`
+3. `"company name" "AMD Instinct" ("evaluation" OR "trial" OR "deployment")`
+4. `"company name" "CUDA vs ROCm" experience comparison`
+
+### Phase 2: Conference and Event Content
+**Search presentations and papers from:**
+- NVIDIA GTC (look for customer migration stories)
+- AMD events and presentations
+- ML conferences (NeurIPS, ICML, ICLR)
+- HPC conferences (SC, ISC)
+- Industry-specific conferences (GDC, SIGGRAPH, etc.)
+
+### Phase 3: Social Media and Professional Networks
+**Search for:**
+- LinkedIn posts from company employees about AMD GPU experiences
+- Twitter/X threads from engineers and CTOs
+- Reddit posts from verified company employees
+- GitHub discussions in company repositories
+- Stack Overflow questions from company email domains
+
+### Phase 4: News and Industry Reports
+**Search for:**
+- Tech news articles mentioning company AMD GPU deployments
+- Industry analyst reports on GPU vendor choices
+- Earnings call transcripts mentioning compute infrastructure
+- Press releases about technology partnerships or migrations
+
+## Information to Extract
+
+For each company found, document:
+
+### Company Details
+- **Company Name:** [Exact company name]
+- **Industry:** [Specific industry/sector]
+- **Size:** [Startup/Mid-size/Enterprise/Government]
+- **Source:** [URL and date of information]
+- **Credibility:** [Official blog/Employee post/News article/etc.]
+
+### AMD GPU Experience
+- **Hardware Used:** [Specific AMD GPU models]
+- **Timeline:** [When they used/tried AMD GPUs]
+- **Use Case:** [Specific AI/ML workload]
+- **Scale:** [Number of GPUs, size of deployment]
+
+### Specific Issues Encountered
+- **Software Problems:** [Exact technical issues]
+- **Performance Issues:** [Specific performance problems]
+- **Integration Challenges:** [Framework/library compatibility]
+- **Support Problems:** [Documentation, debugging, vendor support]
+
+### Business Impact
+- **Project Delays:** [Specific delays or timeline impacts]
+- **Cost Overruns:** [Additional development costs]
+- **Team Productivity:** [Impact on development velocity]
+- **Final Decision:** [Stuck with AMD/Switched to NVIDIA/Abandoned]
+
+### Evidence and Quotes
+- **Direct Quotes:** [Exact quotes from company representatives]
+- **Technical Details:** [Specific error messages, performance metrics]
+- **Links:** [URLs to source material]
+
+## Output Format
+
+For each company case study:
+
+```
+## [Company Name] - [Industry]
+**Source:** [URL and date]
+**Credibility:** [High/Medium/Low - explain why]
+**AMD Hardware:** [Specific GPUs used]
+**Timeline:** [When this occurred]
+**Use Case:** [Specific AI/ML workload]
+
+**Key Issues:**
+- [Specific technical problem 1 with details]
+- [Specific technical problem 2 with details]
+- [etc.]
+
+**Business Impact:**
+- [Specific business impact with quantifiable details if available]
+
+**Direct Quote:**
+"[Exact quote from company representative]"
+
+**Evidence:**
+- [Specific technical details, error messages, performance metrics]
+- [Links to additional supporting material]
+```
+
+## Prioritization Criteria
+
+**High Priority:**
+1. Named companies with official statements or verified employee posts
+2. Recent experiences (2022-2024)
+3. Enterprise/production deployments
+4. Specific technical details and quantifiable impacts
+5. Multiple sources confirming the same issues
+
+**Medium Priority:**
+1. Anonymous but detailed technical discussions
+2. Academic/research institution experiences
+3. Smaller companies with specific use cases
+4. Older but well-documented cases
+
+**Low Priority:**
+1. General developer sentiment without company attribution
+2. Hobbyist or personal projects
+3. Vague complaints without technical details
+4. Very old experiences (pre-2020)
+
+## Success Metrics
+
+A successful research effort should find:
+- **Minimum 10-15 specific named companies** with documented AMD GPU challenges
+- **At least 5 enterprise-level companies** with production deployment issues
+- **Multiple industries represented** (cloud, AI/ML, finance, healthcare, etc.)
+- **Specific technical details** for each case study
+- **Verifiable sources** for all information
+- **Recent examples** (2022-2024) prioritized over older cases
+
+This research will provide concrete, company-specific evidence to support claims about AMD GPU software maturity challenges in the UnlockGPU campaign materials.
