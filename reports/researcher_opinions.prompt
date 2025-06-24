@@ -1,0 +1,63 @@
+**Research Objective:** Generate a comprehensive background report on researcher experiences and sentiment toward AMD GPU software and hardware, focusing on adoption in academic, scientific, and high-performance computing (HPC) environments.
+
+**Scope & Timeline:**
+- Primary focus: 2022-2025 (recent research use cases, pain points, and successes)
+- Secondary: Historical context from 2018-2021 for trend analysis
+- Include perspectives from university labs, research institutes, and national supercomputing centers
+
+**Key Areas to Investigate:**
+1. **ROCm and OpenCL adoption** in research/HPC
+2. **Compatibility with scientific computing frameworks** (e.g., TensorFlow, PyTorch, GROMACS, LAMMPS, OpenMM, etc.)
+3. **Performance and scalability** in cluster/supercomputer environments
+4. **Driver and software stack stability** for research workloads
+5. **Documentation and support** for advanced/research use cases
+6. **Experiences with grant-funded hardware purchases** and institutional IT support
+7. **Barriers to porting existing CUDA/NVIDIA-based research code**
+
+**Sources to Search:**
+- **Academic forums and mailing lists:** (e.g., research computing, university HPC)
+- **GitHub issues/discussions:** for scientific software projects
+- **Supercomputing center user documentation and user group meetings**
+- **Conference proceedings:** (e.g., SC, ISC, domain-specific conferences)
+- **ResearchGate, arXiv, and institutional reports**
+- **HPC and research computing Slack/Discord channels**
+
+**Specific Pain Points to Document:**
+- Installation and setup difficulties in research/HPC environments
+- Performance and scalability issues compared to NVIDIA/CUDA
+- Compatibility with scientific software and libraries
+- Documentation gaps for advanced/research use cases
+- Support for multi-GPU and distributed computing
+- Driver/software stack stability for long-running jobs
+- Barriers to porting and maintaining research code
+- Institutional IT and procurement challenges
+
+**Analysis Framework:**
+1. **Sentiment Analysis:** Categorize opinions as Positive/Neutral/Negative with reasoning
+2. **Pain Point Frequency:** Rank most commonly mentioned issues
+3. **Solution Suggestions:** Collect researcher-proposed fixes and improvements
+4. **Success Stories:** Document published results and cases where AMD GPUs worked well
+5. **Trend Analysis:** Compare recent vs. historical sentiment
+6. **Demographic Insights:** Field of research, region, institution type
+
+**Output Structure:**
+- Executive Summary (key findings, overall sentiment trend)
+- Detailed Pain Points Analysis (with specific research examples and quotes)
+- Researcher Solution Recommendations (community-suggested improvements)
+- Competitive Analysis (NVIDIA/CUDA vs. AMD/ROCm in research)
+- Market Opportunity Assessment (unmet needs, potential wins in academia/HPC)
+- Appendix: Raw data, sources, methodology
+
+**Special Focus Areas:**
+- Barriers to adoption in academic and research settings
+- Experiences of supercomputing centers and research labs
+- Open source project maintainer perspectives
+- Impact on early-career researchers and smaller institutions
+- Regional differences in adoption and sentiment
+
+**Quality Criteria:**
+- Prioritize recent, detailed technical feedback over generic complaints
+- Include both positive and negative perspectives for balance
+- Focus on actionable, specific issues rather than vague criticisms
+- Verify claims where possible with technical documentation or published results
+- Distinguish between hardware and software-related issues 
