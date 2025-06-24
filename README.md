@@ -15,11 +15,21 @@ To run the site locally:
 1. **Install Ruby and Bundler** (if not already installed):
    ```bash
    # On Ubuntu/Debian
-   sudo apt-get install ruby-full build-essential
-   sudo gem install bundler
+   sudo apt-get install ruby-full build-essential zlib1g-dev
+   
+   # Configure gem installation path for current user
+   echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+   echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+   echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+   source ~/.bashrc
+   
+   # Install bundler without sudo
+   gem install bundler
    
    # On macOS (using Homebrew)
    brew install ruby
+   # Add brew ruby to PATH in ~/.zshrc or ~/.bash_profile:
+   # export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
    gem install bundler
    ```
 
