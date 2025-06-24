@@ -53,7 +53,7 @@ To run the site locally:
    - Branch: main
    - Folder: / (root)
 
-2. **The site will be available at**: `https://yourusername.github.io/UnlockGPU/`
+2. **The site will be available at**: `https://unlockgpu.com/`
 
 ### Site Structure
 
