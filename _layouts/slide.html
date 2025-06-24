@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body style="background:#f0f2f5; min-height:100vh; margin:0; padding:20px; box-sizing:border-box; display:flex; justify-content:center; align-items:center;">
+    <div class="presentation-container">
+      <div class="slide-container" id="slide-container">
+        {{ content }}
+      </div>
+      <div class="navigation-controls">
+        <button id="prevBtn" class="nav-button" disabled>Previous</button>
+        <span id="slideCounter" class="slide-counter">1 / 1</span>
+        <button id="nextBtn" class="nav-button">Next</button>
+      </div>
+    </div>
+    <script>
+      // Split content into slides at <!--slide-->
+      document.addEventListener('DOMContentLoaded', function() {
+        const container = document.getElementById('slide-container');
+        const rawHtml = container.innerHTML;
+        // Split at the slide marker
+        const slides = rawHtml.split(/<!--slide-->/g).map(s => s.trim()).filter(Boolean);
+        container.innerHTML = slides.map((s, i) => `<div class='slide-content${i===0?' active':''} slide-${i+1}'>${s}</div>`).join('');
+        // Navigation logic
+        const slideEls = container.querySelectorAll('.slide-content');
+        let current = 0;
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        const slideCounter = document.getElementById('slideCounter');
+        function showSlide(idx) {
+          slideEls.forEach((s, i) => {
+            s.classList.toggle('active', i === idx);
+            s.style.zIndex = i === idx ? 1 : 0;
+          });
+          prevBtn.disabled = (idx === 0);
+          nextBtn.disabled = (idx === slideEls.length - 1);
+          slideCounter.textContent = `${idx + 1} / ${slideEls.length}`;
+        }
+        prevBtn.onclick = function() {
+          if (current > 0) {
+            current--;
+            showSlide(current);
+          }
+        };
+        nextBtn.onclick = function() {
+          if (current < slideEls.length - 1) {
+            current++;
+            showSlide(current);
+          }
+        };
+        showSlide(0);
+      });
+    </script>
+  </body>
+</html> 
