@@ -69,11 +69,10 @@ Zbigniew Łukasiak, Founder
 <!--slide-->
 
 ## The Ask: Credibility, Not Capital
-- **We're not raising money—your support isn't a donation or investment in us.**
-- Join by buying any amount of AMD shares on the public market and pledging your vote.
+- We're not raising money—just credibility and alignment.
+- Join by buying any amount of AMD shares in public market and pledging your vote.
 - What matters: your name, technical reputation, and public support.
-- Every credible supporter increases our leverage.
-- *Become a founder-ally. Your credibility is our leverage. The shares give us the vote.*
+- *Your credibility is our leverage. The shares give us the vote.*
 
 <!--slide-->
 
