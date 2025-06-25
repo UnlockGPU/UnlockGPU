@@ -7,7 +7,7 @@ permalink: /guides/voting
 
 # 🗳️ How to Vote Your AMD Shares – Main Guide
 
-> This guide covers the standard process for voting your AMD shares at the annual meeting. For broker-specific tips, see the [per-broker voting guide](guides/per-broker-voting.html).
+> This guide covers the standard process for voting your AMD shares at the annual meeting. For broker-specific tips, see the [per-broker voting guide](per-broker-voting.html).
 
 ---
 
