@@ -134,7 +134,3 @@ Every credible supporter—engineer, founder, researcher, or builder—amplifies
 ---
 
 *Ready to signal? Want to remix this for your org, blog, or Discord? Fork away—or email [team@unlockgpu.com](mailto:team@unlockgpu.com) and let's coordinate.*
-
----
-
-*This article is available in Markdown format in our [GitHub repository](https://github.com/your-org/your-repo) along with all campaign materials. Feel free to fork, remix, or adapt it for your own community or platform!*
