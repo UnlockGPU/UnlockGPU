@@ -28,11 +28,9 @@ The 2021 GameStop saga showed that coordinated internet mobilization can profoun
 
 ### 1. Filing Shareholder Resolutions
 
-Any shareholder meeting SEC criteria can submit resolutions:
+Any shareholder who meets SEC eligibility can submit a resolution. The thresholds are quite low—for example, just $2,000 of shares held for 3 years qualifies. The process involves meeting shareholding requirements, drafting a concise proposal, and following SEC and company procedures.
 
-- Must own at least $2,000 of stock for at least one year
-- Submit a concise (max 500-word) resolution specifying requested actions
-- Comply with SEC procedural guidelines ([details here](https://www.sec.gov/rules-regulations))
+**For all eligibility criteria, deadlines, and a step-by-step guide, see our [detailed Resolution Filing Plan](/resolution-filing-plan).**
 
 While UnlockGPU meets these criteria, securing a well-known institutional or activist investor to file the resolution significantly boosts visibility and influence, amplifying our campaign's credibility and media exposure.
 
@@ -42,7 +40,7 @@ All shareholders, large or small, can vote on resolutions:
 
 - Votes typically happen electronically via broker websites or through [proxyvote.com](https://proxyvote.com)
 - Instructions for voting arrive ahead of annual shareholder meetings
-- **UnlockGPU.org** (launching soon) will coordinate shareholder voting efforts for maximum turnout and effectiveness
+- For a step-by-step guide on how to vote your AMD shares, see our [Voting Guide](/guides/voting)
 
 ### 3. Coalition Building
 

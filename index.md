@@ -68,7 +68,7 @@ Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/wh
 ## Preliminary Action Plan
 
 *This plan is a starting point—join us to shape and refine it further. But some parts of it will happen regardless of the support we gain.*
-- Shareholder Action: File a non-binding resolution at AMD's 2026 meeting. Enlist activist investor allies.
+- Shareholder Action: File a non-binding resolution at AMD's 2026 meeting - [see our plan](/resolution-filing-plan.html). Enlist activist investor allies.
 - Developer Coalition: Launch #UnlockGPU, unite developer voices, and prioritize 
 a technical wishlist. We're already collecting technical input—see
 [Developer Priorities Document](/priorities/)
