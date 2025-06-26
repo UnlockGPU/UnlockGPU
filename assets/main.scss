@@ -72,8 +72,8 @@ h1, h2, h3 {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     width: 100%;
-    max-width: 960px;
-    min-height: 600px;
+    max-width: 1200px;
+    min-height: 750px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -107,33 +107,33 @@ h1, h2, h3 {
     line-height: 1.2;
 }
 .slide-content h1 {
-    font-size: 3.5rem;
+    font-size: 3.2rem;
 }
 .slide-content h2 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
 }
 .slide-content p {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     color: #4a5568;
-    margin-bottom: 20px;
-    line-height: 1.6;
+    margin-bottom: 18px;
+    line-height: 1.5;
 }
 .slide-content ul {
     list-style: none;
     padding: 0;
-    margin-top: 30px;
+    margin-top: 25px;
     text-align: left;
-    max-width: 80%;
+    max-width: 85%;
     margin-left: auto;
     margin-right: auto;
 }
 .slide-content ul li {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
     color: #2d3748;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     position: relative;
     padding-left: 35px;
-    line-height: 1.5;
+    line-height: 1.4;
 }
 .slide-content ul li::before {
     content: '👉';

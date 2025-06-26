@@ -11,40 +11,40 @@ Zbigniew Łukasiak, Founder
 <!--slide-->
 
 ## The Real Problem: Credibility Crisis
-- AMD has competitive hardware but has lost developer trust through years of broken promises.
-- ROCm is "open source" but doesn't actually work reliably—drivers crash, installations break, Windows support is trash.
-- Without developer credibility, AMD can't challenge NVIDIA's monopoly, no matter how good their hardware is.
+- AMD has competitive hardware but **zero developer trust**
+- ROCm is "open source" but doesn't work—crashes, broken installs, terrible Windows support
+- Without developer credibility, AMD can't challenge NVIDIA's monopoly
 
 <!--slide-->
 
 ## Why Traditional Approaches Fail
-- **Developer forums:** Issues get ignored or disappear into the corporate void.
-- **Open source advocacy:** Has technical insight but no leverage over corporate decisions.
-- **Polite feedback:** AMD knows what's broken—they've known for years. Knowledge ≠ action.
+- **Developer forums:** Issues get ignored or vanish into corporate void
+- **Open source advocacy:** Technical insight but zero corporate leverage
+- **Polite feedback:** AMD knows what's broken—they've known for years
 
 <!--slide-->
 
 ## Our Solution: Shareholder Activism for Open Source
-- Use SEC shareholder resolution rules to force board-level attention AMD can't ignore.
-- Create legal obligations and public pressure that turns promises into actual progress.
-- Developer credibility + shareholder rights = real force for change.
+- Use SEC rules to force board-level attention AMD can't ignore
+- Create legal obligations and public pressure that turn promises into progress
+- **Developer credibility + shareholder rights = real force for change**
 
 <!--slide-->
 
 ## What We're Demanding
 AMD must restore trust through:
-- **Credible, public commitments** to open-source software with detailed roadmaps and progress reports
-- **Transparent developer engagement** through advisory boards and open forums  
-- **Board-level oversight** with public metrics on software compatibility and user satisfaction
+- **Credible commitments** with detailed roadmaps and progress reports
+- **Transparent engagement** through developer advisory boards  
+- **Board-level oversight** with public metrics on software compatibility
 - **Clear support timelines** for broad GPU ranges, including consumer hardware
 
 <!--slide-->
 
 ## Why Shareholder Activism Works
-- Just $2,000 of AMD stock for 3 years gets you resolution powers—we already qualify.
-- Engine No. 1 took down ExxonMobil's board with 0.02% ownership.
-- Even "losing" votes of 10-20% create massive pressure and signal serious problems.
-- Resolutions get mandatory inclusion in proxy statements sent to every AMD shareholder.
+- Just $2,000 of AMD stock for 3 years gets you resolution powers—**we qualify**
+- Engine No. 1 took down ExxonMobil's board with 0.02% ownership
+- Even "losing" votes of 10-20% create massive pressure
+- Resolutions get mandatory inclusion in proxy statements sent to every shareholder
 
 <!--slide-->
 
