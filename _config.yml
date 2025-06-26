@@ -46,6 +46,8 @@ exclude:
 navigation:
   - title: Home
     url: /
+  - title: Action Plan
+    url: /action-plan/
   - title: FAQ
     url: /faq/
   - title: Technical Priorities

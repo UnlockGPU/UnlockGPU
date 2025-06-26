@@ -30,7 +30,8 @@ This approach works. In 2021, Engine No. 1—a small activist fund—won board s
 
 This creates real, public pressure that AMD can't ignore or spin away. It's our strategic tool to ensure AMD's commitments are credible, public, and sustained.
 
-> [**How does this work? Read our Shareholder Activism Guide.**](/activism/)
+> [**How does this work? Read our Shareholder Activism Guide.**](/activism/)  
+> [**What's our plan? See our Campaign Action Plan.**](/action-plan/)
 
 ## Our Demands
 
@@ -60,6 +61,11 @@ If AMD restores trust and delivers on open GPU software, it can break NVIDIA's m
 ### 💻 **Shape the Technical Demands**
 - **Developers:** Document your AMD pain points in our [Developer Priorities Document](/priorities/).
 - Share your technical priorities and developer war stories to strengthen our case.
+
+### 📋 **Improve Our Strategy**
+- **Review our [Campaign Action Plan](/action-plan/)** and suggest improvements to our community outreach, timeline, or tactics.
+- Help us identify key communities, influencers, or institutional investors we should target.
+- Contribute expertise in shareholder activism, campaign organizing, or corporate governance.
 
 ### 🚀 **Amplify the Campaign**
 - **Share with founders, angels, and devs** in your network who understand the GPU software crisis.
