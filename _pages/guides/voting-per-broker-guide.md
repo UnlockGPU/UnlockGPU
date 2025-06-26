@@ -65,6 +65,9 @@ Refer to the main guide for a step-by-step overview:
 * Vote by app or visit ProxyVote directly if no notification appears.
 * **⚠️ Procedures vary—check your specific broker’s documentation.**
 
+### See also
+[Can I vote at a company meeting?](https://help.etoro.com/s/article/Can-I-vote-at-a-company-meeting?language=en_GB) at eToro Help Center.
+
 ---
 
 ## 🏦 Interactive Brokers (IBKR)

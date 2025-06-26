@@ -76,7 +76,7 @@ permalink: /guides/voting
 
 ## 8. Per-Broker Instructions
 
-For detailed, broker-specific voting steps, visit the [AMD Shareholder Voting Broker Guides](amd_shareholder_voting_broker_guides.md).
+For detailed, broker-specific voting steps, visit the [AMD Shareholder Voting Broker Guides](per-broker-voting.html).
 
 ---
 
