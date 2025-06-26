@@ -1,98 +1,65 @@
 ---
+title: "Unlock the GPU - SUCCES Manifesto Draft"
 layout: page
-title: "Unlock the GPU - A Manifesto for a Developer–Investor Alliance"
-permalink: /
+permalink: /manifesto-succes
 ---
 
-### A Manifesto for a Developer–Investor Alliance to Open Compute and Unleash AMD's Value
+**Unlock the GPU: A developer–investor alliance, can force AMD to fix its software and break Nvidia's monopoly.**
 
-## The Three-Part Problem
+Why settle for another petition when you can put your demands directly on the Board's agenda? This is the first campaign where developers become investors—uniting with existing shareholders to act as owners and demand real change at the boardroom level.
 
-NVIDIA's CUDA monopoly traps the GPU world. AMD has the hardware to compete—but software, trust, and perception barriers keep it locked out. This crisis has three parts:
+## Why hasn't AMD broken the CUDA monopoly?
 
-**1. Developers Know What's Broken, But Don't Trust AMD**
+Industry benchmarks show that AMD has the hardware to compete, with the MI300X showing to be [absolutely competitive with Nvidia's H100 GPU on one set of AI inference benchmarks](https://semianalysis.com/2025/05/23/amd-vs-nvidia-inference-benchmark-who-wins-performance-cost-per-million-tokens/). However, years of broken promises and unreliable software have left developers skeptical and investors cautious.
 
-Every GPU developer knows the story: AMD's hardware delivers, but the software ecosystem is fractured. Instability, poor compatibility, incomplete tools, and years of broken promises have killed trust. We know exactly what needs fixing—seamless installs, stable drivers, true CUDA parity, real docs—but AMD's track record says "don't get your hopes up."
+## The Real Obstacle: Credibility Crisis
 
-The technical reality is stark: 25% of AI models fail accuracy tests on AMD hardware, critical features like Flash Attention 2 and vLLM FP8 quantization are missing on consumer GPUs, and Windows installation remains a "nightmare" requiring extensive workarounds. ROCm has earned the community nickname "the Dark Souls of machine learning"—technically possible but brutally difficult.
+If you've ever tried to use AMD for AI, you know the pain: missing features, unstable drivers, or unsupported hardware. ROCm has become known as ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/)—technically possible, but brutally difficult. Or, as another developer bluntly put it:
 
-**2. AMD Understands the Opportunity, But Can't Rebuild Trust Alone**
+> "It's just all a pain to use." — on the AMD software stack [[source]](https://news.ycombinator.com/item?id=43547461)
 
-AMD's leadership understands what's at stake. Billions in revenue, cloud/data center wins, and a shot at breaking NVIDIA's grip. But years of software failure created a credibility gap no press release can fix. Developers tune out the promises. Progress, if any, is lost in the noise. AMD needs independent validation and accountability.
+This reputation, echoed across forums and technical discussions, keeps many developers from even trying AMD for new AI projects. More examples and technical details are documented in the [Developer Priorities Document](/priorities/).
 
-**3. Financial Markets Don't Understand the Technical Bottleneck**
+Without credible, public, and sustained action, developers won't invest their time, contribute code, or build on AMD's platform. This credibility gap is the true bottleneck to AMD's success in AI and high-performance computing.
 
-Wall Street sees great AMD hardware and wonders: why are sales flat? They miss the real barrier—the broken software ecosystem. The market assumes CUDA dominance is unbreakable, not realizing AMD's obstacles are fixable, given the right investment and follow-through.
+## Our Unique Approach: Shareholder Activism for Open Source
 
-## Why This Campaign Works
+This isn't a petition. It's a resolution—real power, real leverage. Unlike typical open source advocacy, our campaign uses investor rights to require AMD's Board to address credibility and accountability at the highest level.
 
-NVIDIA's monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it's the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
+This approach works. In 2021, Engine No. 1—a small activist fund—won board seats at ExxonMobil with just 0.02% of shares, forcing real change by rallying other investors. Investor power can move even the biggest companies. We can do the same for open GPU software.
 
-Our campaign creates a unified feedback loop: developer requirements **build trust** through technical legitimacy, shareholder actions **create accountability** that can't be ignored or spun, and we **educate markets** about the fixable bottleneck and massive opportunity.
+This mechanism creates real, public pressure for change that cannot be ignored or spun. It is a strategic tool to ensure AMD's commitments are credible, public, and sustained.
 
-**AMD's Ecosystem Inversion Problem:** AMD powers the world's fastest supercomputers (El Capitan and Frontier) and 34% of Top500 systems, yet consumer developers face installation nightmares and missing critical features. This creates a dangerous ecosystem inversion where enterprise leads but grassroots innovation suffers. Without grassroots adoption, there is no sustainable ecosystem. Consumer support drives enterprise adoption, not the reverse.
-
-We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. AMD's neglect of consumer GPU software support (including upcoming RDNA4) represents massive unfulfilled potential for competitively priced hardware.
-
-Unlike typical open source advocacy campaigns that suffer from chronic underfunding and volunteer burnout, this campaign is potentially hugely lucrative for participants. If AMD's software ecosystem improves and breaks NVIDIA's monopoly, shareholders could see massive returns as AMD captures market share in the exploding AI/compute sector. While the created value will be difficult to capture entirely by the campaign participants, the scale will be enormous—creating powerful financial incentives for sustained campaign participation and investment.
-
-This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?]({{ site.baseurl }}/faq#actual-force)
-
-*(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation]({{ site.baseurl }}/activism/) of how this strategy works in practice.)*
-
-## The Investment Opportunity
-
-- **The "Nvidia Tax"**: NVIDIA charges up to 5x hardware cost—because it can.
-- **AMD's Hidden Potential**: The hardware is strong; the missing piece is a seamless, developer-friendly stack.
-- **Exploding Demand**: The AI/compute boom means any AMD software win translates into major market gains.
-- **Market Mispricing**: The market doesn't yet price in what happens when AMD fixes the software bottleneck. The 25% model failure rate represents massive untapped market potential. AMD's own 20x efficiency target by 2030 requires software ecosystem success.
+> [**How does this work? Read our Shareholder Activism Guide.**](/activism/)
 
 ## Our Demands
 
-1. **Guaranteed Investment in Open GPU Software**
-Allocate a protected annual budget of $200 million specifically for ROCm development, driver stability, and CUDA compatibility tools, with funds ring-fenced from general R&D cuts. This budget must be maintained for a minimum of 5 years and reported separately in quarterly earnings calls.
+To restore trust and unlock AMD's potential, we call on AMD to:
 
-2. **Mandatory Driver Support for Consumer Hardware**
-Provide full ROCm support for all consumer GPUs from RX 6000 series onward within 12 months, with commit-level guarantees for 5-year support lifecycles. Establish and fund a dedicated consumer GPU software team with measurable performance targets. Address critical missing features including Flash Attention 2, vLLM FP8, and bitsandbytes quantization support for RDNA3 and future architectures.
+- Make credible, public, and ongoing commitments to open-source software development and support, such as publishing detailed roadmaps and progress reports.
+- Establish transparent processes for engaging and incorporating input from developers and researchers, for example through a Developer Advisory Board or regular open forums.
+- Implement Board-level oversight and transparent reporting, including tracking and disclosing key metrics on software compatibility, installation success, and user satisfaction.
+- Provide clear and public support timelines for a broad range of GPUs, including consumer and academic hardware.
 
-3. **Binding Community Governance Structure**
-Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $20 million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
+These demands are designed to be compatible with what is possible in a shareholder resolution under SEC rules: they focus on credibility, transparency, engagement, and accountability, not prescriptive technical or budgetary details.
 
-The Board will adopt and maintain the existing community-generated [Developer Priorities Document]({{ site.baseurl }}/priorities/), evolving it transparently with developer input. Publish binding quarterly progress reports against these community-defined milestones.
+## The Payoff: Breaking the CUDA Monopoly
 
-4. **Executive Accountability and Public Commitment**
-Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores. Address the current accuracy crisis where 25% of AI models fail tests on AMD hardware.
+If AMD restores trust and delivers on open GPU software, it can break NVIDIA's monopoly. This will unlock billions in value, end vendor lock-in, and support open innovation in AI and science. The upside is enormous—not just for AMD shareholders, but for the entire technology ecosystem.
 
-Here is our rationale for the proposed budget:[Why $220M?]({{ site.baseurl }}/why220m/)
+- [Nvidia Makes Nearly 1,000% Profit](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some cards—the "NVIDIA tax"—because it can.
+- AMD powers 34% of Top500 supercomputers, but consumer adoption is stalled by software failures.
+- The market does not yet price in what happens when AMD fixes the software bottleneck.
 
-## Preliminary Action Plan
+## How You Can Help
 
-*This plan is a starting point—join us to shape and refine it further. But some parts of it will happen regardless of the support we gain.*
-- Shareholder Action: File a non-binding resolution at AMD's 2026 meeting - [see our plan](/resolution-filing-plan.html). Enlist activist investor allies.
-- Developer Coalition: Launch #UnlockGPU, unite developer voices, and prioritize 
-a technical wishlist. We're already collecting technical input—see
-[Developer Priorities Document](/priorities/)
-- Strategic Pressure: Demand quarterly progress and push for AMD to collaborate on open, cross-vendor standards (SYCL, etc.).
-
-
-## How to Join
-
-**Everyone:** This campaign is open-source from top to bottom. Submit improvements or new ideas directly on GitHub ([https://github.com/UnlockGPU/UnlockGPU]), share your story, spread #UnlockGPU, and participate in open discussions. Every core document is open for your Pull Requests.
-
-**Developers:** Add technical pain points and solutions directly to the [Developer Priorities Document](/priorities/).
-
-**Shareholders:** Buy AMD shares (even small amounts count), pledge your vote for our 2026 resolution at UnlockGPU.org (coming soon), join our voting coordination network for reminders and instructions, and spread the word to other AMD shareholders.
-
-**Activists & Investors:** Bring strategic experience in resolution language and campaign tactics, partner to maximize leverage, and connect us with major shareholders and industry players.
-
-*This campaign is built in the open. Make your mark on the movement.*
-
-
-## The Payoff
-- **Unlock billions** in value as AMD gains share from NVIDIA
-- **End vendor lock-in** and open the GPU ecosystem
-- **Support AI and science** on open, competitive infrastructure
+- **Buy a share, pledge your vote, and signal your support.** Even one share gives you a voice. [Learn how shareholder activism works.](/activism/)
+- **Developers:** Contribute pain points and feedback to shape AMD's commitments. Add your technical priorities or share your developer war stories in the [Developer Priorities Document](/priorities/).
+- **Fork or remix this campaign:** All texts are open source—[find them on GitHub](https://github.com/UnlockGPU/UnlockGPU) and adapt for your community, translate, or remix as you like. Pull requests are welcome!
+- **Share this with a founder, angel, or dev you trust.**
+- **Join the campaign:** Share your story and participate in open discussions. Lend your name, technical reputation, or public support to the movement.
+- **Contact us:** Ready to signal? Want to remix this for your org, blog, or Discord? Fork away—or email [team@unlockgpu.com](mailto:team@unlockgpu.com) and let's coordinate.
 
 ---
-**The time for action is now.** Developers know what's broken. Investors can unlock the value. Join us: vote, organize, and build the future.
 
+**We're tired of being locked out. We want to build, not beg. The time for action is now. Developers know what's broken. Investors can unlock the value. Join us: vote, organize, and build the future.** 
