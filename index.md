@@ -20,7 +20,7 @@ If you've ever tried to use AMD for AI, you know the pain: missing features, uns
 
 This reputation, echoed across forums and technical discussions, keeps many developers from even trying AMD for new AI projects. More examples and technical details are documented in the [Developer Priorities Document](/priorities/).
 
-Without credible, public, and sustained action, developers won't invest their time, contribute code, or build on AMD's platform. This credibility gap is the true bottleneck to AMD's success in AI and high-performance computing.
+Without meaningful, transparent, and ongoing action, developers won't invest their time, contribute code, or build on AMD's platform. This credibility gap is the true bottleneck to AMD's success in AI and high-performance computing.
 
 ## Our Unique Approach: Shareholder Activism for Open Source
 
@@ -28,7 +28,7 @@ This isn't a petition. It's a resolution—real power, real leverage. Unlike typ
 
 This approach works. In 2021, Engine No. 1—a small activist fund—won board seats at ExxonMobil with just 0.02% of shares, forcing real change by rallying other investors. Investor power can move even the biggest companies. We can do the same for open GPU software.
 
-This mechanism creates real, public pressure for change that cannot be ignored or spun. It is a strategic tool to ensure AMD's commitments are credible, public, and sustained.
+This creates real, public pressure that AMD can't ignore or spin away. It's our strategic tool to ensure AMD's commitments are credible, public, and sustained.
 
 > [**How does this work? Read our Shareholder Activism Guide.**](/activism/)
 
@@ -53,12 +53,20 @@ If AMD restores trust and delivers on open GPU software, it can break NVIDIA's m
 
 ## How You Can Help
 
-- **Buy a share, pledge your vote, and signal your support.** Even one share gives you a voice. [Learn how shareholder activism works.](/activism/)
-- **Developers:** Contribute pain points and feedback to shape AMD's commitments. Add your technical priorities or share your developer war stories in the [Developer Priorities Document](/priorities/).
-- **Fork or remix this campaign:** All texts are open source—[find them on GitHub](https://github.com/UnlockGPU/UnlockGPU) and adapt for your community, translate, or remix as you like. Pull requests are welcome!
-- **Share this with a founder, angel, or dev you trust.**
-- **Join the campaign:** Share your story and participate in open discussions. Lend your name, technical reputation, or public support to the movement.
-- **Contact us:** Ready to signal? Want to remix this for your org, blog, or Discord? Fork away—or email [team@unlockgpu.com](mailto:team@unlockgpu.com) and let's coordinate.
+### 🗳️ **Take Action as an Investor**
+- **Buy a share and pledge your vote.** Even one share gives you a voice at the shareholder table.
+- [Learn how shareholder activism works](/activism/) and why it's effective for forcing corporate change.
+
+### 💻 **Shape the Technical Demands**
+- **Developers:** Document your AMD pain points in our [Developer Priorities Document](/priorities/).
+- Share your technical priorities and developer war stories to strengthen our case.
+
+### 🚀 **Amplify the Campaign**
+- **Share with founders, angels, and devs** in your network who understand the GPU software crisis.
+- **Fork and remix:** All content is open source on [GitHub](https://github.com/UnlockGPU/UnlockGPU)—adapt for your community, translate, or remix as you like.
+- **Join the movement:** Lend your name, technical reputation, or public support.
+
+**Ready to get involved?** Email [team@unlockgpu.com](mailto:team@unlockgpu.com) to coordinate your contribution.
 
 ---
 
