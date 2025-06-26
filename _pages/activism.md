@@ -6,79 +6,97 @@ permalink: /activism/
 
 # Shareholder Activism: How You Can Force Real Change in Public Companies
 
-This campaign harnesses a powerful but often overlooked mechanism: **shareholder activism**. Here we outline precisely how shareholder activism works, how we're strategically deploying it, and why the involvement of developers uniquely amplifies our impact.
+This campaign harnesses a powerful but often overlooked weapon: **shareholder activism**. Here's exactly how it works, why it's devastatingly effective, and how developers make it unstoppable.
 
 ## What Is Shareholder Activism?
 
-Shareholder activism occurs when investors leverage their ownership stakes in a company to formally propose changes directly to its management. This involves submitting resolutions, advocating publicly, and mobilizing votes during annual shareholder meetings.
+Shareholder activism is when investors stop asking nicely and start making demands. You leverage your ownership stake to formally propose changes, force board attention, and create real consequences.
+
+It's corporate democracy in action—and it works.
 
 ## Real-World Examples of Impact
 
-**Elliott Management at Salesforce (2023):** Elliott Management, a high-profile activist investor, compelled Salesforce to adopt substantial operational reforms by submitting detailed resolutions and mobilizing public and shareholder support.
+**Elliott Management vs. Salesforce (2023):** Elliott forced Salesforce into massive operational reforms through strategic resolutions and relentless pressure. Salesforce had no choice but to comply.
 
-**Engine No. 1 at ExxonMobil (2021):** Despite holding only 0.02% of shares, Engine No. 1 managed to elect three new board members to ExxonMobil by clearly articulating climate-related issues, rallying institutional investors, and harnessing public visibility.
+**Engine No. 1 vs. ExxonMobil (2021):** With just 0.02% ownership, they replaced three ExxonMobil board members. Tiny stake, massive impact.
 
-*(For detailed insights, see Matt Levine's acclaimed newsletter Money Stuff.)*
+The secret? Be right, be loud, and never back down.
+
+*(Matt Levine's "Money Stuff" newsletter has the full playbook—highly recommended.)*
 
 ## A Note on the GameStop Phenomenon
 
-The 2021 GameStop saga showed that coordinated internet mobilization can profoundly impact financial markets. UnlockGPU channels that same collaborative spirit—but with technical expertise and legitimate shareholder activism instead of speculation.
+Remember GameStop 2021? Coordinated internet mobilization moved markets and shocked Wall Street.
+
+UnlockGPU channels that same energy—but with technical expertise and legitimate shareholder power instead of meme speculation.
+
+Same collaborative spirit. Better strategy.
 
 ## How Shareholder Activism Works
 
 ### 1. Filing Shareholder Resolutions
 
-Any shareholder who meets SEC eligibility can submit a resolution. The thresholds are quite low—for example, just $2,000 of shares held for 3 years qualifies. The process involves meeting shareholding requirements, drafting a concise proposal, and following SEC and company procedures.
+The barrier to entry is shockingly low: just $2,000 of stock held for 3 years gets you resolution power. That's it.
 
-**For all eligibility criteria, deadlines, and a step-by-step guide, see our [detailed Resolution Filing Plan](/resolution-filing-plan).**
+**We already qualify.** For complete details, deadlines, and step-by-step instructions, see our [Resolution Filing Plan](/resolution-filing-plan).
 
-While UnlockGPU meets these criteria, securing a well-known institutional or activist investor to file the resolution significantly boosts visibility and influence, amplifying our campaign's credibility and media exposure.
+But here's the multiplier: securing a prominent institutional investor to file amplifies everything—credibility, media attention, and management fear.
 
 ### 2. Voting on Resolutions
 
-All shareholders, large or small, can vote on resolutions:
+Every shareholder gets a vote. No minimum requirements, no gatekeepers.
 
-- Votes typically happen electronically via broker websites or through [proxyvote.com](https://proxyvote.com)
-- Instructions for voting arrive ahead of annual shareholder meetings
-- For a step-by-step guide on how to vote your AMD shares, see our [Voting Guide](/guides/voting)
+- Vote electronically through your broker or [proxyvote.com](https://proxyvote.com)
+- Instructions arrive before annual meetings
+- Step-by-step voting guide: [How to Vote Your AMD Shares](/guides/voting)
+
+Your vote matters. Use it.
 
 ### 3. Coalition Building
 
-Successful campaigns combine multiple strengths:
+Winning campaigns combine multiple forces:
 
-- **Developers and Users** provide crucial technical legitimacy and clearly defined real-world needs, making proposals compelling and credible
-- **Activist Investors and Institutions** add strategic clout and amplify pressure through financial expertise and public engagement
-- **Media Attention** highlights the issues, increases scrutiny, and incentivizes management action
+- **Developers** provide technical credibility and define real problems
+- **Activist Investors** bring financial firepower and strategic expertise  
+- **Media Coverage** amplifies pressure and forces corporate response
 
-## Why We Don't Need a Majority Vote to Win
+Together, we're unstoppable.
 
-Success in shareholder activism doesn't require outright majority support. Even minority votes of 10–20% can exert significant pressure because they:
+## Why We Don't Need a Majority to Win
 
-- Signal serious unresolved problems, posing reputational risks management can't easily dismiss
-- Draw attention from media, analysts, and institutional investors, increasing scrutiny and forcing the company to respond
-- Empower internal advocates within AMD by providing visible, external validation of their concerns
-- Allow continuous pressure through annual shareholder meetings until meaningful action is taken
+Here's the secret: you don't need 51% to create change.
 
-Engine No. 1's victory at ExxonMobil vividly demonstrated that a minority shareholding, when strategically mobilized, can catalyze transformative change.
+Even 10-20% votes signal serious problems that management can't ignore:
 
-## Developer Involvement: Our Unique Leverage
+- **Reputational damage** that affects stock price and analyst coverage
+- **Media attention** that exposes problems publicly
+- **Internal validation** for AMD employees who know these issues exist
+- **Annual pressure** through repeated resolutions until problems get fixed
 
-What distinguishes UnlockGPU from typical activist campaigns is the deep involvement of developers. By clearly articulating specific technical problems, developers give our campaign unmatched authenticity and urgency. Developer involvement:
+Engine No. 1 proved minority shareholders can force transformative change. We're following their playbook.
 
-- **Adds technical credibility**, making it harder for AMD's management to dismiss demands as purely financial or activist-driven
-- **Attracts media and analyst attention** by highlighting genuine, practical issues that impact AMD's business prospects
-- **Strengthens the case** for major institutional or activist investors to join, amplifying our influence
+## Developer Involvement: Our Secret Weapon
 
-UnlockGPU is actively mobilizing this combined developer-investor coalition, preparing a compelling resolution and positioning for maximum impact at AMD's 2026 shareholder meeting.
+Most activist campaigns rely on financial arguments. We have something better: **technical truth**.
+
+Developer involvement makes us unique:
+
+- **Unshakeable credibility** - we know exactly what's broken and how to fix it
+- **Media magnet** - technical problems affecting real developers create compelling stories
+- **Institutional investor bait** - our technical case attracts serious money and amplifies our power
+
+AMD can dismiss financial activists. They can't dismiss thousands of developers saying their software is broken.
 
 ## How You Can Help
 
-**Developers:** Participate by acquiring shares, contributing your technical insights, and voting.
+**Developers:** Buy shares, contribute technical insights, and vote. Your expertise is our ammunition.
 
-**Investors:** Join the coalition, vote your shares, and publicly support the campaign.
+**Investors:** Join the coalition, vote your shares, amplify the message.
 
-Together, leveraging our unique blend of technical credibility and strategic financial pressure, we can compel AMD to prioritize critical software improvements—unlocking massive potential value for everyone.
+**Everyone:** Share the campaign, tell your stories, connect us with allies.
+
+The more voices we have, the harder we are to ignore.
 
 ---
 
-**The time for action is now. Join us, cast your votes, and help drive real, lasting change at AMD.**
+**The time for asking nicely is over. Join us and help force real change at AMD.**
