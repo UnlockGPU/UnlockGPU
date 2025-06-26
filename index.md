@@ -12,6 +12,8 @@ Why settle for another petition when you can put your demands directly on the Bo
 
 Industry benchmarks show that AMD has the hardware to compete, with the MI300X showing to be [absolutely competitive with Nvidia's H100 GPU on one set of AI inference benchmarks](https://semianalysis.com/2025/05/23/amd-vs-nvidia-inference-benchmark-who-wins-performance-cost-per-million-tokens/). However, years of broken promises and unreliable software have left developers skeptical and investors cautious.
 
+> "NVIDIA's monopoly isn't fate. It's a coordination problem."
+
 ## The Real Obstacle: Credibility Crisis
 
 If you've ever tried to use AMD for AI, you know the pain: missing features, unstable drivers, or unsupported hardware. ROCm has become known as ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/)—technically possible, but brutally difficult. Or, as another developer bluntly put it:
@@ -23,6 +25,8 @@ This reputation, echoed across forums and technical discussions, keeps many deve
 Without meaningful, transparent, and ongoing action, developers won't invest their time, contribute code, or build on AMD's platform. This credibility gap is the true bottleneck to AMD's success in AI and high-performance computing.
 
 ## Our Unique Approach: Shareholder Activism for Open Source
+
+> "This is not a petition. This is a lever."
 
 This isn't a petition. It's a resolution—real power, real leverage. Unlike typical open source advocacy, our campaign uses investor rights to require AMD's Board to address credibility and accountability at the highest level.
 
