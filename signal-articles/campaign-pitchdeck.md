@@ -3,7 +3,7 @@ layout: slide
 title: UnlockGPU Campaign Pitch Deck
 ---
 
-# UnlockGPU: Developer–Shareholder Alliance
+# UnlockGPU: Developer–<br/>Shareholder Alliance
 *Using shareholder activism to break the CUDA monopoly and restore AMD's credibility*
 
 Zbigniew Łukasiak, Founder
@@ -24,7 +24,7 @@ Zbigniew Łukasiak, Founder
 
 <!--slide-->
 
-## Our Solution: Shareholder Activism for Open Source
+## Our Solution: Shareholder Activism<br/>for Open Source
 - Use SEC rules to force board-level attention AMD can't ignore
 - Create legal obligations and public pressure that turn promises into progress
 - **Developer credibility + shareholder rights = real force for change**
@@ -82,7 +82,6 @@ AMD must restore trust through:
 - **Low barrier to entry:** $2,000 and SEC rules give us real corporate governance power.
 - **Asymmetric leverage:** Developer credibility amplified by shareholder rights.
 - **Clear value proposition:** When AMD stops sucking, the "CUDA tax" disappears for everyone.
-- **Honest about scale:** We're small but growing—and that's exactly how successful campaigns start.
 
 <!--slide-->
 
@@ -90,6 +89,8 @@ AMD must restore trust through:
 - Be part of the first developer–shareholder alliance to challenge Big Tech monopolies.
 - Help restore open-source credibility in corporate governance.
 - **Own where you code. Vote where you build. Break the CUDA monopoly.**
+
+**Get started:** [UnlockGPU.com](https://unlockgpu.com/)
 
 *We're not asking nicely—we're using corporate governance to create real pressure.*
 
