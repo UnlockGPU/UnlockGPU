@@ -65,7 +65,7 @@ We're not asking nicely—we're using corporate governance to create real pressu
 
 **A:**
 
-To be honest so far it is just me - Zbigniew Łukasiak [my AI related blog](https://zzbbyy.substack.com/), 
+To be honest so far it is just me - Zbigniew Łukasiak, see [my AI related blog](https://zzbbyy.substack.com/), 
 plus a friend who holds AMD shares for over a year and who promised do file the shareholder resolution (I hold them too but not long enough).
 
 I am looking for allies.
