@@ -1,7 +1,7 @@
 ---
-title: "Unlock the GPU - SUCCES Manifesto Draft"
+title: "Unlock the GPU - Manifesto"
 layout: page
-permalink: /manifesto-succes
+permalink: /
 ---
 
 **Unlock the GPU: A developer–investor alliance, can force AMD to fix its software and break Nvidia's monopoly.**
