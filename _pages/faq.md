@@ -41,7 +41,7 @@ permalink: /faq/
 
 We're not just making noise—we're using formal shareholder activism, which is fundamentally different from internet petitions.
 
-**The barrier is surprisingly low:** Anyone owning just $2,000 of AMD stock for one year can file a shareholder resolution. We already meet these requirements.
+**The barrier is surprisingly low:** Anyone owning just $2,000 of AMD stock for three years can file a shareholder resolution. We already meet these requirements.
 
 **Why resolutions matter:** Unlike petitions, shareholder resolutions are formal corporate governance that:
 - Get mandatory inclusion in proxy statements sent to all shareholders
