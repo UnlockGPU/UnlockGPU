@@ -15,11 +15,9 @@
       </label>
 
       <div class="trigger">
-        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
-        <a class="page-link" href="{{ "/faq/" | relative_url }}">FAQ</a>
-        <a class="page-link" href="{{ "/priorities/" | relative_url }}">Technical Priorities</a>
-        <a class="page-link" href="{{ "/activism/" | relative_url }}">Shareholder Activism</a>
-        <a class="page-link" href="{{ "/why220m/" | relative_url }}">Why $220M?</a>
+        {% for nav_item in site.navigation %}
+          <a class="page-link" href="{{ nav_item.url | relative_url }}">{{ nav_item.title }}</a>
+        {% endfor %}
       </div>
     </nav>
 
