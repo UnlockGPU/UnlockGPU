@@ -31,7 +31,6 @@ This approach works. In 2021, Engine No. 1—a small activist fund—won board s
 This creates real, public pressure that AMD can't ignore or spin away. It's our strategic tool to ensure AMD's commitments are credible, public, and sustained.
 
 > [**How does this work? Read our Shareholder Activism Guide.**](/activism/)  
-> [**What's our plan? See our Campaign Action Plan.**](/action-plan/)
 
 ## Our Demands
 
