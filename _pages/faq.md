@@ -8,6 +8,13 @@ permalink: /faq/
 
 ## Table of Contents
 
+- [Are you trolling AMD?](#are-you-trolling)
+
+### About the Campaign
+- [How is this different from online petitions?](#vs-petitions)
+- [Who is behind this campaign?](#who-behind)
+- [How did you start this project?](#how-started)
+
 ### Strategy & Approach
 - [What actual force do you have over AMD?](#actual-force)
 - [Why not target NVIDIA directly?](#why-amd)  
@@ -26,9 +33,49 @@ permalink: /faq/
 - [What's the timeline for this campaign?](#timeline)
 - [How will I know if this campaign is making progress?](#tracking-progress)
 
-### About the Campaign
-- [How is this different from online petitions?](#vs-petitions)
-- [Who is behind this campaign?](#who-behind)
+---
+
+<a id="are-you-trolling"></a>
+## Q: Are you trolling AMD?
+
+**A:**
+
+We use some tactics that resemble trolling—but we actually want to help AMD regain their credibility in the dev community. We do it by putting demands on AMD, just like rating agencies demand stuff from companies to help them sell their bonds.
+
+
+---
+
+## About the Campaign
+
+<a id="vs-petitions"></a>
+## Q: How is this different from online petitions?
+
+**A:**
+
+Online petitions = begging politely with zero consequences.
+
+Shareholder activism = legal obligations, SEC oversight, and mandatory board attention.
+
+Petitions get ignored. Shareholder resolutions get included in proxy statements sent to every AMD investor, force public responses, and create ongoing leverage.
+
+We're not asking nicely—we're using corporate governance to create real pressure.
+
+<a id="who-behind"></a>
+## Q: Who is behind this campaign?
+
+**A:**
+
+To be honest so far it is just me - Zbigniew Łukasiak [my AI related blog](https://zzbbyy.substack.com/), 
+plus a friend who holds AMD shares for over a year and who promised do file the shareholder resolution (I hold them too but not long enough).
+
+I am looking for allies.
+
+<a id="how-started"></a>
+## Q: How did you start this project?
+
+**A:**
+
+I was reading George Hotz rants on AMD and Matt Levine's "Money Stuff Newsletter" around the same time. And I thought: shareholder activism in AMD? Why not—totally doable.
 
 ---
 
@@ -39,122 +86,62 @@ permalink: /faq/
 
 **A:**
 
-We're not just making noise—we're using formal shareholder activism, which is fundamentally different from internet petitions.
+The barrier is shockingly low: just $2,000 of AMD stock for three years gets you shareholder resolution powers. We already qualify.
 
-**The barrier is surprisingly low:** Anyone owning just $2,000 of AMD stock for three years can file a shareholder resolution. We already meet these requirements.
+Engine No. 1 took down ExxonMobil's board with 0.02% ownership. We don't need to own AMD—we just need to be right and loud about it.
 
-**Why resolutions matter:** Unlike petitions, shareholder resolutions are formal corporate governance that:
-- Get mandatory inclusion in proxy statements sent to all shareholders
-- Require board response and public disclosure
-- Generate media coverage because they're real corporate actions, not just online campaigns
-- Even minority votes of 10-20% create significant pressure and force management attention
+Even "losing" votes of 10-20% create massive pressure because they signal serious problems that can't be ignored anymore.
 
-**Real precedent:** Engine No. 1 successfully changed ExxonMobil's board with only 0.02% ownership by combining technical credibility with strategic activism.
-
-Our unique advantage is combining developer expertise with investor pressure—making our demands technically credible and financially legitimate.
-
-For detailed explanation of our shareholder activism strategy, see [Shareholder Activism: How You Can Force Real Change]({{ site.baseurl }}/activism/).
+For detailed strategy, see [Shareholder Activism: How You Can Force Real Change]({{ site.baseurl }}/activism/).
 
 <a id="why-amd"></a>
 
-## Q: Why not target NVIDIA directly? Isn't NVIDIA the real problem? Why focus on AMD when they already support open source?
+## Q: Why not target NVIDIA directly? Isn't NVIDIA the real problem?
 
 **A:**
 
-NVIDIA's CUDA monopoly is the core problem—it creates vendor lock-in, inflates prices, and blocks open AI/scientific computing. We absolutely want open GPU computing free from single-vendor control.
+NVIDIA's monopoly is the problem, but they only respond to real competition, not angry tweets.
 
-However, NVIDIA only responds to real competition, not public pressure. Years of calls to "open up CUDA" have been ignored because their monopoly works and their platform "just works."
+AMD is the only company that can actually challenge NVIDIA. But their current "openness" is just marketing—tools that don't work aren't actually open.
 
-AMD is the only realistic challenger with both the hardware and open-source commitment. But AMD's current "openness" isn't enough:
+NVIDIA's monopoly breaks when AMD stops sucking. We're here to make sure that happens.
 
-- Software experience (drivers, libraries, ease of use) lags far behind NVIDIA
-- Developers face broken workflows, missing features, and limited support
-- Community verdict: "Open source" is just marketing unless tools actually work
-
-### Why focus on AMD?
-
-NVIDIA's monopoly will only break when a credible, open alternative exists. The fastest path is pushing AMD to deliver on their potential—fixing software, expanding support, and earning developer trust.
-
-Our campaign demands execution, not promises. We're pushing AMD to be truly competitive, not just "open."
-
-### If AMD delivers, everyone wins:
-
-- Prices drop and the "CUDA tax" disappears
-- Open science and AI become accessible to more people
-- NVIDIA is forced to compete or open up
-
-### Bottom line:
-
-AMD is the only company with a realistic path to break NVIDIA's monopoly—but only if they fix what's broken. When AMD wins, we all win.
+When AMD wins, the "CUDA tax" disappears and everyone wins. Except NVIDIA's shareholders.
 
 <a id="amd-knows"></a>
-## Q: Doesn't AMD already know all of this? Why should an external campaign be necessary?
+## Q: Doesn't AMD already know all of this?
 
 **A:**
 
-It's true—AMD's leadership understands the CUDA monopoly, the market opportunity, and the need for a competitive open-source software stack. They talk about it in interviews, investor calls, and press releases. They know what needs fixing.
+Of course they do. AMD talks about beating NVIDIA in every earnings call.
 
-So why is outside pressure still needed?
+But knowing ≠ doing. They've known about these problems for years—progress has been pathetic.
 
-**Knowing ≠ Doing.** Big organizations often struggle to turn knowledge into action. AMD has known about these problems for years—but progress has been slow and inconsistent.
+We're not here to educate AMD. We're here to create the pressure that turns promises into actual progress.
 
-**Credibility Gap.** Developers and investors have been burned by broken promises and missed timelines. There's a lack of trust that AMD will deliver without public accountability.
-
-**Internal Pressures.** Like any large company, AMD has shifting priorities, competing departments, and budget constraints. It's easy for crucial software work to be delayed or cut—unless there's a strong outside signal that the world is watching.
-
-**Independent Oversight Creates Results.** Think of credit rating agencies: every company knows it should manage its debt, but ratings still matter—because external scrutiny affects access to capital, board decisions, and even executive compensation. The same is true for open software at AMD: public, independent evaluation makes it a top priority, not just an internal talking point.
-
-**Proven Track Record.** In tech, real change—open drivers, better standards, security audits—almost always follows sustained, external, community or investor pressure. It's rarely just the result of internal insight.
-
-**In short:**
-We're not here to "educate" AMD. We're here to create the public, independent accountability that finally moves the needle. Even when management knows the right answer, external pressure and oversight are what turn promises into progress.
+Think credit rating agencies: companies know how to manage debt, but external oversight is what makes it happen.
 
 <a id="why-shareholder-activism"></a>
 ## Q: Why shareholder activism instead of working with AMD directly?
 
 **A:**
 
-While traditional approaches like developer feedback and community forums continue to be valuable, we're excited to try something new: formal shareholder activism.
+Developer forums don't work. GitHub issues get ignored. Polite feedback disappears into the corporate void.
 
-**Why this is a novel approach for GPU computing:**
-- Developer advocacy has typically been limited to forums, GitHub issues, and informal feedback
-- Open source communities rarely leverage financial ownership for technical improvements
-- No major GPU software campaign has combined developer expertise with investor pressure
-- This bridges the gap between technical credibility and corporate governance power
+Shareholder resolutions create legal obligations and force board-level attention that can't be delegated away.
 
-**This approach offers unique opportunities:**
-- Creates legal obligations (resolutions must be included in proxy statements)
-- Forces board-level attention (can't be delegated to lower-level managers)
-- Generates public accountability (voting results become public record)
-- Provides ongoing leverage (annual meetings create recurring pressure)
-
-**We're not replacing collaboration**—we're adding a powerful new tool. The goal is to complement existing efforts with formal accountability mechanisms that can amplify our voice.
-
-Think of it as "trust but verify" for corporate commitments—something worth trying in the GPU computing space.
+It's "trust but verify" for corporate commitments. Time to try something that actually works.
 
 <a id="if-ignored"></a>
 ## Q: What happens if AMD ignores the shareholder resolution?
 
 **A:**
 
-Even if AMD's management opposes our resolution, the process itself creates multiple pressure points:
+They can't ignore it—it gets included in proxy materials sent to every shareholder, and they must provide an official response.
 
-**Immediate Impact:**
-- Resolution gets included in proxy materials sent to all shareholders
-- AMD must provide an official response explaining their position
-- Media coverage highlights the issues and AMD's response
-- Analysts and institutional investors pay attention
+Even if we "lose," 10-20% votes signal serious problems that force management action.
 
-**Ongoing Pressure:**
-- We can file similar resolutions annually until issues are addressed
-- Voting results become public benchmarks of shareholder sentiment
-- Poor responses damage AMD's credibility with developers and investors
-- Success builds momentum for future campaigns
-
-**Historical Pattern:**
-Most successful shareholder campaigns don't win on the first vote—they build pressure over time. Engine No. 1 spent months building their case before their ExxonMobil victory.
-
-Even "losing" votes of 10-20% often trigger management action because they signal serious problems that can't be ignored.
+Most successful campaigns don't win on the first try—they build pressure over time. We can file annually until they fix what's broken.
 
 ---
 
@@ -165,77 +152,37 @@ Even "losing" votes of 10-20% often trigger management action because they signa
 
 **A:**
 
-Based on our research of internet forums and developer discussions, we've identified problems that fall into several key categories. This represents what we've discovered *so far*—we expect to uncover additional issues as we gather direct community feedback:
+The usual suspects: drivers crash, installations break, Windows support is trash, documentation sucks, and half the libraries don't work.
 
-**1. Driver Stability & Installation**
-- Frequent black screens, timeouts, and crashes on Windows
-- Fragile installation process that breaks with Windows updates
-- Poor compatibility with multi-monitor setups and third-party tools
+ROCm only supports "blessed" GPUs while dropping consumer cards that people actually own.
 
-**2. Limited Hardware Support**
-- ROCm only supports "blessed" GPUs, often dropping consumer cards
-- Missing support for widely-available RX 6000/7000 series
-- Short support lifecycles compared to NVIDIA
+Years of broken promises have destroyed developer trust.
 
-**3. Software Ecosystem Gaps**
-- Missing Windows support for ROCm (ML development mostly happens on Windows)
-- Incomplete library support (FlashAttention, LoRA, many JAX features)
-- Poor compatibility with popular ML frameworks out of the box
-
-**4. Documentation & Tooling**
-- Unclear documentation compared to CUDA
-- Missing beginner-friendly tutorials and migration guides
-- Limited debugging and profiling tools
-
-**5. Developer Trust**
-- Years of broken promises have created skepticism
-- Poor communication about roadmaps and deprecation plans
-- Lack of transparent progress reporting
-
-For detailed technical priorities, see our [Developer Priorities Document]({{ site.baseurl }}/priorities/).
+For the full list, see our [Developer Priorities Document]({{ site.baseurl }}/priorities/).
 
 <a id="rocm-vs-cuda"></a>
-## Q: How is AMD's ROCm different from CUDA, and why does it matter?
+## Q: How is AMD's ROCm different from CUDA?
 
 **A:**
 
-**ROCm (AMD's platform):**
-- Open source and vendor-neutral
-- Supports HIP (similar to CUDA) and other standards
-- Works on AMD GPUs and aims for broader hardware support
-- Smaller ecosystem with gaps in libraries and tools
+**CUDA:** Proprietary, NVIDIA-only, but it actually works.
 
-**CUDA (NVIDIA's platform):**
-- Proprietary and NVIDIA-only
-- Mature ecosystem with extensive libraries and tools
-- "Just works" experience that developers trust
-- Creates vendor lock-in—code written for CUDA only runs on NVIDIA
+**ROCm:** Open source, vendor-neutral, but doesn't work reliably.
 
-**Why this matters:**
-NVIDIA's monopoly allows them to charge premium prices (the "NVIDIA tax") and control the direction of AI/scientific computing. A competitive, open alternative would:
-- Drive down GPU prices through competition
-- Prevent vendor lock-in for researchers and companies
-- Enable innovation that isn't controlled by a single company
-- Make AI and scientific computing more accessible
+AMD's hardware is competitive. The software ecosystem is trash.
 
-The technical capabilities exist—AMD's hardware is competitive. The missing piece is the software ecosystem and developer trust that makes ROCm a viable alternative to CUDA.
+NVIDIA charges a monopoly tax because they can. ROCm could break that—if it actually worked.
 
 <a id="success-metrics"></a>
 ## Q: What would success look like from a developer perspective?
 
 **A:**
 
-At this early stage, we're focused on identifying and prioritizing the most critical issues. As the campaign develops and we gather more community input, we'll establish specific success metrics.
+ROCm that actually works. Drivers that don't crash. Windows support that exists.
 
-**Initial goals include:**
-- Getting AMD to acknowledge and prioritize the technical issues we've identified
-- Creating a transparent roadmap for addressing developer pain points
-- Establishing regular communication channels between AMD and the developer community
+Basically: AMD becoming a real alternative to NVIDIA instead of just talking about it.
 
-**Broader vision:**
-We want to break open the GPU computing market so developers have genuine choices based on technical merit, not vendor lock-in. Currently, NVIDIA's monopoly forces developers to accept their terms regardless of cost or technical fit.
-
-Beyond AMD, we welcome other GPU developers to contribute their own open source drivers and frameworks. While ROCm is AMD-focused, the broader goal is fostering an open GPU computing ecosystem where multiple vendors can compete on merit rather than proprietary lock-in.
+Success = developers choosing GPUs based on merit, not vendor lock-in.
 
 ---
 
@@ -246,48 +193,22 @@ Beyond AMD, we welcome other GPU developers to contribute their own open source 
 
 **A:**
 
-There are many ways to contribute:
+Share the campaign (#UnlockGPU), tell your stories about GPU vendor lock-in, and connect us with relevant people.
 
-**Spread Awareness:**
-- Share the campaign on social media (#UnlockGPU)
-- Discuss with friends in tech, finance, or academia
-- Write about the issues on your blog or LinkedIn
+Buy some AMD stock if you can—even small amounts help.
 
-**Provide Use Cases:**
-- Share stories about GPU computing challenges you've faced
-- Explain how vendor lock-in affects your work or studies
-- Help document real-world impacts of the current situation
-
-**Join the Community:**
-- Follow project updates and vote on priorities
-- Participate in discussions about campaign strategy
-- Connect us with relevant experts or organizations
-
-**Financial Support:**
-- Consider buying AMD stock (even small amounts help)
-- Support organizations working on open standards
-- Donate to open source GPU computing projects
-
-Every voice matters—this campaign's strength comes from broad, diverse support across the tech community.
+Every voice matters. Broad support is what makes campaigns work.
 
 <a id="need-stock"></a>
 ## Q: Do I need to buy AMD stock to participate?
 
 **A:**
 
-**No, stock ownership isn't required to participate** in most aspects of the campaign. You can contribute by spreading awareness, providing technical feedback, and supporting the community.
+Nope. You can help by spreading awareness, providing feedback, and building community.
 
-**However, owning AMD stock does provide additional leverage:**
-- You can vote on shareholder resolutions
-- Your voice carries weight as an actual owner
-- It aligns your financial interests with the campaign's success
+But owning stock does give you voting power and skin in the game.
 
-**Alternative approaches:**
-- Many institutional investors (pension funds, ETFs) hold AMD stock on your behalf
-- You can influence their voting through shareholder advocacy organizations
-- Focus on technical contributions and community building
-
-Stock ownership amplifies your voice, but the campaign's success depends on broad participation from the entire tech community.
+Even small amounts help—this campaign's strength comes from broad participation, not big wallets.
 
 <a id="timeline"></a>
 ## Q: What's the timeline for this campaign?
@@ -306,42 +227,4 @@ To be formulated.
 To be formulated.
 
 ---
-
-## About the Campaign
-
-<a id="vs-petitions"></a>
-## Q: How is this different from online petitions?
-
-**A:**
-
-**Online petitions:**
-- Informal requests with no legal status
-- Easy to ignore with no consequences
-- Often lack specific, actionable demands
-- Generate temporary attention but rarely lasting change
-
-**Shareholder activism:**
-- Legally binding process with SEC oversight
-- Creates formal obligations for corporate response
-- Forces board-level attention and public disclosure
-- Provides ongoing leverage through annual meetings
-- Combines financial pressure with technical credibility
-
-**Our unique approach:**
-- Developer expertise makes demands technically credible
-- Investor participation provides financial leverage
-- Public campaign builds media pressure and accountability
-- Specific, measurable demands with clear success criteria
-
-This isn't just asking politely—it's using the formal mechanisms of corporate governance to create real pressure for change.
-
-<a id="who-behind"></a>
-## Q: Who is behind this campaign?
-
-**A:**
-
-To be honest so far it is just me - Zbigniew Łukasiak [my AI related blog](https://zzbbyy.substack.com/), 
-plus a friend who holds AMD shares for over a year and who promised do file the shareholder resolution (I hold them too but not long enough).
-
-I am looking for allies.
 
