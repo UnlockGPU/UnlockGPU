@@ -273,4 +273,10 @@ h1, h2, h3 {
   .site-nav .page-link + .page-link {
     border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
+}
+
+/* --- Responsive Images --- */
+img {
+  max-width: 100%;
+  height: auto;
 } 

@@ -35,4 +35,20 @@
 
   </div>
 
-</footer> 
+</footer>
+
+<script>
+  // Close the hamburger nav after a link is tapped (improves UX on mobile)
+  document.addEventListener('DOMContentLoaded', function () {
+    var navLinks = document.querySelectorAll('.site-nav .page-link');
+    var navTrigger = document.getElementById('nav-trigger');
+    if (navTrigger && navLinks.length) {
+      navLinks.forEach(function (link) {
+        link.addEventListener('click', function () {
+          // Uncheck the checkbox to collapse the menu
+          navTrigger.checked = false;
+        });
+      });
+    }
+  });
+</script> 
