@@ -42,12 +42,30 @@
   document.addEventListener('DOMContentLoaded', function () {
     var navLinks = document.querySelectorAll('.site-nav .page-link');
     var navTrigger = document.getElementById('nav-trigger');
+
+    function closeNav() {
+      // Delay needed on some mobile browsers so click navigation can happen first
+      setTimeout(function () {
+        navTrigger && (navTrigger.checked = false);
+      }, 75);
+    }
+
     if (navTrigger && navLinks.length) {
       navLinks.forEach(function (link) {
-        link.addEventListener('click', function () {
-          // Uncheck the checkbox to collapse the menu
-          navTrigger.checked = false;
-        });
+        // Support both mouse and touch interactions
+        link.addEventListener('click', closeNav, false);
+        link.addEventListener('touchend', closeNav, false);
+      });
+    }
+
+    if (navTrigger) {
+      // Close when tapping/clicking outside the navigation area
+      ['click', 'touchend'].forEach(function(evt) {
+        document.addEventListener(evt, function (e) {
+          if (navTrigger.checked && !e.target.closest('.site-nav')) {
+            navTrigger.checked = false;
+          }
+        }, false);
       });
     }
   });
