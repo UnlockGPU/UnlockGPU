@@ -3,95 +3,90 @@ layout: slide
 title: UnlockGPU Campaign Pitch Deck
 ---
 
-# UnlockGPU: Developer–<br/>Shareholder Alliance
+# UnlockGPU: Developer–Shareholder Alliance
 *Using shareholder activism to break the CUDA monopoly and restore AMD's credibility*
 
 Zbigniew Łukasiak, Founder
 
-<!--slide-->
+---
 
 ## The Real Problem: Credibility Crisis
-- AMD has competitive hardware but **zero developer trust**
-- ROCm is "open source" but doesn't work—crashes, broken installs, terrible Windows support
-- Without developer credibility, AMD can't challenge NVIDIA's monopoly
+- Killer hardware, **zero** developer trust
+- "Open source" ROCm crashes, won't install, no Windows
+- No trust → no chance against NVIDIA
 
-<!--slide-->
+---
 
 ## Why Traditional Approaches Fail
-- **Developer forums:** Issues get ignored or vanish into corporate void
-- **Open source advocacy:** Technical insight but zero corporate leverage
-- **Polite feedback:** AMD knows what's broken—they've known for years
+- Forums: posts vanish into the void
+- OSS advocates: insight, **no leverage**
+- Polite feedback: AMD's heard it for years—still broken
 
-<!--slide-->
+---
 
 ## Our Solution: Shareholder Activism<br/>for Open Source
-- Use SEC rules to force board-level attention AMD can't ignore
-- Create legal obligations and public pressure that turn promises into progress
-- **Developer credibility + shareholder rights = real force for change**
+- SEC rules drag dev pain into the boardroom
+- Promises → legal obligations + public pressure
+- Dev cred × shareholder rights = real force
 
-<!--slide-->
+---
 
 ## What We're Demanding
-AMD must restore trust through:
-- **Credible commitments** with detailed roadmaps and progress reports
-- **Transparent engagement** through developer advisory boards  
-- **Board-level oversight** with public metrics on software compatibility
-- **Clear support timelines** for broad GPU ranges, including consumer hardware
+AMD must rebuild trust:
+- **Real roadmaps** + public metrics
+- **Dev advisory board** with unfiltered updates
+- **Board oversight** on compatibility progress
+- **Broad GPU support** with clear timelines
 
-<!--slide-->
+---
 
 ## Why Shareholder Activism Works
-- Just $2,000 of AMD stock for 3 years gets you resolution powers—**we qualify**
-- Engine No. 1 took down ExxonMobil's board with 0.02% ownership
-- Even "losing" votes of 10-20% create massive pressure
-- Resolutions get mandatory inclusion in proxy statements sent to every shareholder
+- $2k + 3 yrs of AMD stock = SEC resolution power — we already have it
+- Engine No. 1 booted Exxon board with 0.02% shares — size ≠ leverage
+- Resolutions land in every proxy packet — can't be ignored
+- We're the GPU "credit-rating": fix it or devs won't buy
 
-<!--slide-->
+---
 
 ## Current Status: Small but Real
 - **Team:** Solo founder (me) plus a friend with qualifying AMD shares to file the resolution.
 - **Looking for allies:** Developers, technical investors, anyone who wants to break the CUDA monopoly.
 - **Active campaign:** Public docs, developer priorities, and coalition-building at [UnlockGPU.com](https://unlockgpu.com/).
 
-<!--slide-->
+---
 
 ## The Market Opportunity
-- AI/compute demand is exploding—the world desperately wants a CUDA alternative.
-- AMD's hardware already leads in performance per dollar.
-- Breaking NVIDIA's monopoly would unlock billions in value across the entire tech ecosystem.
-- Success here creates a repeatable model for other industry bottlenecks.
+- AI boom begs for a CUDA rival
+- AMD hardware already leads $/perf
+- Break monopoly → unlock billions across tech
+- Playbook repeats for other bottlenecks
 
-<!--slide-->
+---
 
 ## Timeline & Next Steps
-- **2025:** File shareholder resolution, build developer coalition, secure endorsements.
-- **May 2026:** AMD's annual shareholder meeting—the focal point for formal resolution vote.
-- **Beyond:** Annual pressure until AMD fixes what's broken, then expand the model.
+- **November 2025:** File resolution, grow coalition
+- **May 2026:** Shareholder vote showdown
+- **After:** Re-file annually until AMD fixes
 
-<!--slide-->
+---
 
 ## The Ask: Credibility, Not Capital
-- **We're not raising money**—just credibility and alignment.
-- **Join by buying AMD shares** in the public market (not from us) and pledging your vote.
-- **What matters:** Your name, technical reputation, and public support.
-- *Your credibility is our leverage. The shares give us the vote.*
+- Not raising cash—raising **cred**
+- Buy AMD shares **in the open market** (not from us) and pledge your vote
+- Your name is leverage; stock is the megaphone
 
-<!--slide-->
+---
 
 ## Why This Campaign Wins
-- **Low barrier to entry:** $2,000 and SEC rules give us real corporate governance power.
-- **Asymmetric leverage:** Developer credibility amplified by shareholder rights.
-- **Clear value proposition:** When AMD stops sucking, the "CUDA tax" disappears for everyone.
+- $2k + SEC rules = real power
+- Dev credibility × vote leverage = asymmetric edge
+- When AMD stops sucking, the CUDA tax dies
 
-<!--slide-->
+---
 
 ## Join the Fight
 - Be part of the first developer–shareholder alliance to challenge Big Tech monopolies.
 - Help restore open-source credibility in corporate governance.
 - **Own where you code. Vote where you build. Break the CUDA monopoly.**
 
-**Get started:** [UnlockGPU.com](https://unlockgpu.com/)
-
 *We're not asking nicely—we're using corporate governance to create real pressure.*
-
----
