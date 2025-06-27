@@ -251,4 +251,26 @@ h1, h2, h3 {
         font-size: 1.2rem;
     }
 }
-/* --- End Slide Deck Presentation Styles --- */ 
+/* --- End Slide Deck Presentation Styles --- */
+
+/* --- Mobile Hamburger Menu Fix: give dropdown a contrasting background --- */
+@media (max-width: 800px) {
+  /* The dropdown container that appears after clicking the hamburger icon */
+  .site-nav .trigger {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 0.5rem 1rem;
+    border-radius: 0 0 8px 8px;
+  }
+
+  /* Make each link full-width with spacing */
+  .site-nav .page-link {
+    display: block;
+    color: white !important;
+    padding: 0.75rem 0;
+  }
+
+  /* Optional divider between links */
+  .site-nav .page-link + .page-link {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+} 
