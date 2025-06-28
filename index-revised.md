@@ -16,7 +16,7 @@ This is the first campaign where developers become investors—uniting with exis
 
 ## The Credibility Crisis: How Bad Is It?
 
-ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/)—technically possible, but brutally difficult. This isn't just an inconvenience; it's a year of wasted effort for users like this one:
+ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/)—technically possible, but brutally difficult. This isn't just an inconvenience; it can be a year of wasted effort for users like this one:
 
 > "I've pretty much spent the entire year... trying to get the GPU to work with Stable diffusion... I tried getting it to work In Docker, In WSL, In virtualbox... and now I finally broke down and dual booted ubuntu. And still I can't get it to work... My Nvidia GPU always just worked. ... Buying the AMD GPU was the biggest mistake I've made in 20 yrs. and I'm not exaggerating at all." — A 3D artist on GitHub [[source](https://github.com/ROCm/ROCm/issues/2754)]
 
