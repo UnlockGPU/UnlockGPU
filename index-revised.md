@@ -22,7 +22,7 @@ ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1
 
 **This pattern repeats across thousands of developers.** GitHub issues, Reddit threads, HackerNews discussions—all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk.
 
-**This hits shareholders too.** AMD trades at 31x P/E while NVIDIA gets 51x—the market has already ["priced in" AMD's software deficit.](https://www.ainvest.com/news/amd-ai-crossroads-software-gaps-outrun-hardware-gains-2506/)
+**This costs shareholders dearly.** AMD is missing out on the fastest-growing segment in tech—the AI chip market in 2024 was around $30B but expanding exponentially toward $400B+ by 2030.
 
 **This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat.
 
