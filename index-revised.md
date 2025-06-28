@@ -4,13 +4,13 @@ layout: page
 permalink: /manifesto-revised
 ---
 
-**Unlock the GPU: A developer–investor alliance, can force AMD to fix its software and break Nvidia's monopoly.**
+**Unlock the GPU: A developer–investor alliance can force AMD to fix its software and break NVIDIA's monopoly.**
 
 This is the first campaign where developers become investors—uniting with existing shareholders to act as owners and demand real change at the boardroom level.
 
 ## Why hasn't AMD broken the CUDA monopoly?
 
-**It's not the hardware.** The [MI300X competes with Nvidia's H100](https://semianalysis.com/2025/05/23/amd-vs-nvidia-inference-benchmark-who-wins-performance-cost-per-million-tokens/) on AI benchmarks. AMD has powered the world's fastest supercomputers, including [dominating the Top500 rankings](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/) with systems like El Capitan and Frontier.
+**It's not the hardware.** The [MI300X competes with NVIDIA's H100](https://semianalysis.com/2025/05/23/amd-vs-nvidia-inference-benchmark-who-wins-performance-cost-per-million-tokens/) on AI benchmarks. AMD has powered the world's fastest supercomputers, including [dominating the Top500 rankings](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/) with systems like El Capitan and Frontier.
 
 **The problem is software credibility.** Years of broken promises and unstable releases have destroyed developer trust, leaving NVIDIA with [massive market dominance](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) despite having competitive alternatives.
 
@@ -22,15 +22,21 @@ ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1
 
 **This pattern repeats across thousands of developers.** GitHub issues, Reddit threads, HackerNews discussions—all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk.
 
-**This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD deprioritizes improvements → repeat.
+**This hits shareholders too.** AMD trades at 31x P/E while NVIDIA gets 51x—the market has already ["priced in" AMD's software deficit.](https://www.ainvest.com/news/amd-ai-crossroads-software-gaps-outrun-hardware-gains-2506/)
 
-Now developers assume AMD won't work before they even try.
+**This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat.
 
-**AMD management can't fix this alone.** Rebuilding trust requires public accountability and external pressure—not just promises. The company needs credible commitments that developers can actually believe.
+Now developers assume AMD won't work before they even try. [NVIDIA cracked this years ago](https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/) by winning developers first.
+
+**AMD management can't fix this alone.** Hardware-first companies struggle with [organizational inertia](https://www.iese.edu/insight/articles/inertia-management-challenge-digital-transformation/)—what made them successful now blocks software transformation.
+
+**Rebuilding trust requires external pressure—not just promises.**
 
 But how do we create that pressure?
 
 > "NVIDIA's monopoly isn't fate. It's a coordination problem."
+
+**The solution? We coordinate as owners, not just users.**
 
 ## Our Weapon: Shareholder Activism
 
@@ -39,6 +45,8 @@ But how do we create that pressure?
 **We file a resolution, not a petition.** Real power. Real leverage. We force AMD's Board to address credibility and accountability at the highest level.
 
 **It works.** Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares. Small activist funds can move giants by rallying other investors.
+
+**We're creating a "credit rating agency for developer trust."** Public scorecards. Transparent standards. Real consequences for broken promises.
 
 > [**How does this work? Read our Shareholder Activism Guide.**](/activism/)  
 
@@ -68,7 +76,7 @@ NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-
 
 ## How You Can Help
 
-**🚀 Amplify:** Share with founders, angels, devs who get the GPU crisis. [Fork on GitHub](https://github.com/UnlockGPU/UnlockGPU)
+**🚀 Amplify:** Share with founders, angels, developers who get the GPU crisis. [Fork on GitHub](https://github.com/UnlockGPU/UnlockGPU)
 
 **💻 Developers:** Document your AMD pain points in [Developer Priorities](/priorities/)
 
