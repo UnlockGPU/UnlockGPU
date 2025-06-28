@@ -28,7 +28,7 @@ Now developers assume AMD won't work before they even try.
 
 **AMD management can't fix this alone.** Rebuilding trust requires public accountability and external pressure—not just promises. The company needs credible commitments that developers can actually believe.
 
-Only pressure from owners can force management to make the credible, public commitments needed to rebuild trust.
+But how do we create that pressure?
 
 > "NVIDIA's monopoly isn't fate. It's a coordination problem."
 
@@ -39,8 +39,6 @@ Only pressure from owners can force management to make the credible, public comm
 **We file a resolution, not a petition.** Real power. Real leverage. We force AMD's Board to address credibility and accountability at the highest level.
 
 **It works.** Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares. Small activist funds can move giants by rallying other investors.
-
-**Result:** Public pressure AMD can't ignore or spin away. Credible, sustained commitments the developer community can actually trust.
 
 > [**How does this work? Read our Shareholder Activism Guide.**](/activism/)  
 
@@ -57,7 +55,7 @@ These demands focus on credibility, transparency, engagement, and accountability
 
 ## The Payoff: Breaking the CUDA Monopoly
 
-**The economics are staggering.** NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that hit $500B and continues growing exponentially. They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
+NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that hit $500B and continues growing exponentially. They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
 
 **When AMD restores software credibility, everything changes:**
 - Enterprises escape the "NVIDIA tax" as real competition emerges
@@ -80,7 +78,7 @@ These demands focus on credibility, transparency, engagement, and accountability
 
 ---
 
-**We're tired of being locked out. We want to build, not beg. The time for action is now. Developers know what's broken. Investors can unlock the value. Join us: vote, organize, and build the future.** 
+**We're tired of being locked out. We want to build, not beg. Developers know what's broken. Investors can unlock the value. Join us.** 
 
 ---
 
