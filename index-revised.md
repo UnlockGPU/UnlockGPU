@@ -32,11 +32,11 @@ Now developers assume AMD won't work before they even try. [NVIDIA cracked this 
 
 **Rebuilding trust requires external pressure—not just promises.**
 
-But how do we create that pressure?
+But how do we create that pressure? The answer is coordination.
 
 > "NVIDIA's monopoly isn't fate. It's a coordination problem."
 
-**The solution? We coordinate as owners, not just users.**
+**We coordinate as owners, not just users.**
 
 ## Our Weapon: Shareholder Activism
 
