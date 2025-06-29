@@ -22,15 +22,9 @@ ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1
 
 > "I've pretty much spent the entire year... trying to get the GPU to work with Stable diffusion... I tried getting it to work In Docker, In WSL, In virtualbox... and now I finally broke down and dual booted ubuntu. And still I can't get it to work... My Nvidia GPU always just worked. ... Buying the AMD GPU was the biggest mistake I've made in 20 yrs. and I'm not exaggerating at all." — A 3D artist on GitHub [[source](https://github.com/ROCm/ROCm/issues/2754)]
 
-**This pattern repeats across thousands of developers.** GitHub issues, Reddit threads, HackerNews discussions—all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk.
+**The pattern repeats across thousands of developers**—GitHub issues, Reddit threads, HackerNews discussions are all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk, **creating a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat. Now developers assume AMD won't work before they even try, while [NVIDIA cracked this years ago](https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/) by winning developers first.
 
-**This costs shareholders dearly,** as AMD is missing out on the fastest-growing segment in tech—the [global AI chip market was valued at $52.92 billion in 2024 and is projected to reach $295.56 billion by 2030](https://www.nextmsc.com/report/artificial-intelligence-chip-market), growing at a CAGR of 33.2%.
-
-**This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat. Now developers assume AMD won't work before they even try, while [NVIDIA cracked this years ago](https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/) by winning developers first.
-
-**AMD management can't fix this alone** because hardware-first companies struggle with [organizational inertia](https://www.iese.edu/insight/articles/inertia-management-challenge-digital-transformation/)—what made them successful now blocks software transformation. **Rebuilding trust requires external pressure—not just promises.**
-
-But how do we create that pressure? The answer is coordination.
+**Shareholders pay dearly for this failure** as AMD misses out on the fastest-growing segment in tech—the [global AI chip market was valued at $52.92 billion in 2024 and is projected to reach $295.56 billion by 2030](https://www.nextmsc.com/report/artificial-intelligence-chip-market), growing at a CAGR of 33.2%. AMD management can't fix this alone because hardware-first companies struggle with [organizational inertia](https://www.iese.edu/insight/articles/inertia-management-challenge-digital-transformation/)—what made them successful now blocks software transformation. Rebuilding trust requires external pressure—not just promises. But how do we create that pressure? The answer is coordination.
 
 > **"NVIDIA's monopoly isn't fate. It's a coordination problem."**
 
