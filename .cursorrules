@@ -1,0 +1,120 @@
+# Cursor Rules for UnlockGPU Project
+
+## Current State
+Current date: July 28, 2025
+**Project Status**: Soft launch - The website is published and live but has not been announced publicly yet. This allows for final content refinements and testing before full campaign launch.
+
+
+## Project Context
+This is the UnlockGPU project focused on shareholder activism regarding AMD's GPU software ecosystem and credibility issues. Our mission is to drive meaningful change in AMD's approach to GPU software development through strategic shareholder engagement and community mobilization.
+
+## Content Strategy & Types
+
+### 1. Signal Articles
+**Purpose**: Shareable content that spreads awareness through conscious audience choice
+**Criteria**: Must meet "Spreadable Media" standards (Jenkins) AND "Made to Stick" SUCCESS framework:
+
+**Spreadable Media Requirements:**
+- **Producerly**: Content with "loose ends" and gaps that allow audience participation in meaning-making
+- **Multiple interpretations**: Open to different readings by different communities
+- **Transformable**: Can be remixed, repurposed, or recontextualized as it spreads
+- **Socially functional**: Serves community needs (identity, information, boundary-setting)
+- **Gift-worthy**: Worth sharing as a gesture of care or connection to others
+
+**Made to Stick SUCCESS Framework:**
+- **Simple**: Clear, focused message
+- **Unexpected**: Surprising facts or perspectives
+- **Concrete**: Specific examples and evidence
+- **Credible**: Authoritative sources and data
+- **Emotional**: Connects with reader motivations
+- **Stories**: Narrative elements that resonate
+
+**Location**: `/signal-articles/`
+**Examples**: Campaign pitch decks, press kits, social media content
+
+### 2. Guides
+**Purpose**: Practical, actionable content for stakeholders
+**Criteria**: Step-by-step instructions, clear outcomes, immediately useful
+**Location**: `/_pages/guides/`
+**Examples**: Voting guides, shareholder activism how-tos
+
+### 3. Research & Analysis
+**Purpose**: Evidence-based foundation for activism arguments
+**Criteria**: Well-sourced, objective, actionable insights
+**Location**: `/reports/`
+
+## Writing Standards
+
+### Tone & Voice (Phase-Specific)
+
+**Current Phase: Soft Launch - Direct Signal Articles**
+- **Signal Articles**: Punchy, direct, and provocative while remaining professional
+  - Sharp, memorable headlines and opening statements
+  - Bold claims supported by solid evidence
+  - Clear urgency and stakes
+  - Designed to generate discussion and sharing
+- **Research & Analysis**: Rational, objective, and rigorously professional
+  - Academic-level sourcing and methodology
+  - Measured language and careful conclusions
+  - Data-first approach with clear documentation
+  - Suitable for financial analysts and institutional investors
+
+**Universal Standards Across All Content:**
+- **Data-driven**: Always support claims with evidence
+- **Action-oriented**: Clear calls-to-action and next steps
+- **Credible**: Maintain professional standards even when being provocative
+
+### Research Requirements
+- **Primary sources preferred**: SEC filings, official documentation, direct quotes
+- **High-quality research articles**: Peer-reviewed studies, industry analysis, academic papers
+- **Multiple verification**: Cross-check facts across sources
+- **Date sensitivity**: Always note when data/information is current as of specific dates
+- **Conflict of interest disclosure**: Be transparent about any potential biases
+
+### Content Structure
+- **Executive summary**: Key points upfront
+- **Clear headings**: Scannable structure with H2/H3 hierarchy
+- **Evidence placement**: Data and sources immediately after claims
+- **Action items**: Concrete next steps for readers
+- **Further reading**: Links to deeper resources
+
+## Content Creation Guidelines
+
+### File Locations
+- **Signal articles**: `/signal-articles/` directory
+- **Research & analysis**: `/reports/` directory  
+- **Guides**: `/guides/` directory
+- **Static pages**: `/_pages/` directory
+
+### File Naming
+- Use kebab-case for all files (`amd-credibility-crisis.md`)
+- Include relevant keywords for SEO
+- Keep names concise but descriptive
+
+## Target Audiences
+
+### Primary
+- **AMD shareholders**: Individual and institutional investors
+- **GPU developers**: Engineers frustrated with AMD software ecosystem
+- **Financial analysts**: Industry researchers and reporters
+- **Tech journalists**: Media covering GPU/AI industry
+
+### Secondary
+- **Gamers/enthusiasts**: End users affected by software issues
+- **Academic researchers**: AI/ML researchers using GPUs
+- **Policymakers**: Regulators interested in tech competition
+
+## Legal & Ethical Considerations
+
+### Shareholder Activism Guidelines
+- **SEC compliance**: Follow all disclosure requirements
+- **Factual accuracy**: No misleading or false statements
+- **Good faith**: Activism must serve legitimate shareholder interests
+- **Documentation**: Keep records of all research and communications
+
+### Content Disclaimers
+- Include appropriate disclaimers about forward-looking statements
+- Disclose any financial interests in AMD or competitors
+- Clarify when content represents opinion vs. fact
+
+ 
