@@ -12,7 +12,7 @@ permalink: /manifesto-revised
 
 ## Why hasn't AMD broken the CUDA monopoly?
 
-**It's not the hardware.** The [MI300X competes with NVIDIA's H100](https://semianalysis.com/2025/05/23/amd-vs-nvidia-inference-benchmark-who-wins-performance-cost-per-million-tokens/) on AI benchmarks. AMD has powered the world's fastest supercomputers, including [dominating the Top500 rankings](https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/) with systems like El Capitan and Frontier.
+**It's not the hardware.** The MI300X was designed to compete directly with NVIDIA's H100 in AI workloads. AMD has powered the world's fastest supercomputers, including [systems like El Capitan and Frontier](https://www.top500.org/lists/top500/2024/11/) achieving exascale performance.
 
 **The problem is software credibility.** Years of broken promises and unstable releases have destroyed developer trust, leaving NVIDIA with [massive market dominance](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) despite having competitive alternatives.
 
@@ -24,7 +24,7 @@ ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1
 
 **This pattern repeats across thousands of developers.** GitHub issues, Reddit threads, HackerNews discussions—all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk.
 
-**This costs shareholders dearly.** AMD is missing out on the fastest-growing segment in tech—the AI chip market in 2024 was around $30B but expanding exponentially toward $400B+ by 2030 (data current as of Q1 2025).
+**This costs shareholders dearly.** AMD is missing out on the fastest-growing segment in tech—the [global AI chip market was valued at $52.92 billion in 2024 and is projected to reach $295.56 billion by 2030](https://www.nextmsc.com/report/artificial-intelligence-chip-market), growing at a CAGR of 33.2%.
 
 **This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat.
 
@@ -52,7 +52,7 @@ This isn't just about fixing AMD's software—it's about breaking the most expen
 **If you're an investor:**
 - Every portfolio company overpays for compute
 - AMD is missing the fastest-growing segment in tech
-- The AI chip market was $30B in 2024, projected to reach $400B+ by 2030
+- The AI chip market was $52.92B in 2024, projected to reach $295.56B by 2030
 
 ## The Strategy: Developers Become Owners
 
@@ -90,7 +90,7 @@ These demands focus on credibility, transparency, engagement, and accountability
 
 ## The Payoff: Breaking the CUDA Monopoly
 
-NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that was $30B in 2024 and is projected to reach $400B+ by 2030 (data current as of Q1 2025). They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
+NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that was $52.92B in 2024 and is projected to reach $295.56B by 2030. They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
 
 **When AMD restores software credibility, everything changes:**
 - Enterprises escape the "NVIDIA tax" as real competition emerges
@@ -119,6 +119,6 @@ NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-
 
 ---
 
-**Disclaimers:** This content contains forward-looking statements about market projections, AMD's potential performance, and industry trends that involve risks and uncertainties. Actual results may differ materially. All market data and financial projections are current as of Q1 2025 unless otherwise noted.
+**Disclaimers:** This content contains forward-looking statements about market projections, AMD's potential performance, and industry trends that involve risks and uncertainties. Actual results may differ materially. All market data and financial projections are current as of their respective sources unless otherwise noted.
 
 The authors may hold financial positions in AMD or related securities. This content is for informational purposes only and does not constitute investment advice. Readers should conduct their own research and consult financial advisors before making investment decisions. 
