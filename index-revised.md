@@ -4,93 +4,93 @@ layout: page
 permalink: /manifesto-revised
 ---
 
-# Breaking the GPU Lock: When Developers Become Shareholders
+# Breaking the GPU Lock: When Shareholders Amplify Developer Voices
 
-**What if developers had votes, not just voices?**
+**Developers speak. Shareholders vote. Together we break the lock.**
 
-*This is the first campaign where developers unite with investors—combining technical expertise with shareholder power to break vendor lock-in at the boardroom level.*
+*We are AMD shareholders turning real developer pain into board-level action.*
+
+**Guess how many of the world's top 20 AI startups use something other than NVIDIA?**  
+**Just one—and it's not AMD.** Meanwhile, **13 of the world's top 20 supercomputers run AMD silicon.[^gpu-count-method]**
+
+[^gpu-count-method]: Full tables and sourcing in our report: [“Supercomputers vs. AI Startups: GPU/Compute Provider Table (2025)”](/reports/ai-supercomputer-vs-startup-gpu-table).
 
 ## Why hasn't AMD broken the CUDA monopoly?
 
-**It's not the hardware—** the MI300X was designed to compete directly with NVIDIA's H100 in AI workloads, and AMD has powered the world's fastest supercomputers, including [systems like El Capitan and Frontier](https://www.top500.org/lists/top500/2024/11/) achieving exascale performance.
+It's not the hardware. AMD's MI300X competes directly with NVIDIA's H100, and AMD powers the world's fastest supercomputers.
 
-**The problem is software credibility,** where years of broken promises and unstable releases have destroyed developer trust, leaving NVIDIA with [massive market dominance](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) despite having competitive alternatives.
+**The problem is broken trust.** Years of unstable releases and unfulfilled promises have poisoned the developer ecosystem, leaving NVIDIA with [massive market dominance](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) despite AMD's competitive hardware.
 
 ## The Credibility Crisis: How Bad Is It?
 
-ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/)—technically possible, but brutally difficult. This isn't just an inconvenience; it can be a year of wasted effort for users like this one:
+ROCm is notoriously challenging—dubbed ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1603733-rocm-is-the-dark-souls-of-machine-learning/). Possible, but painfully difficult. This costs users months or years of lost productivity. One 3D artist shared on GitHub:
 
-> "I've pretty much spent the entire year... trying to get the GPU to work with Stable diffusion... I tried getting it to work In Docker, In WSL, In virtualbox... and now I finally broke down and dual booted ubuntu. And still I can't get it to work... My Nvidia GPU always just worked. ... Buying the AMD GPU was the biggest mistake I've made in 20 yrs. and I'm not exaggerating at all." — A 3D artist on GitHub [[source](https://github.com/ROCm/ROCm/issues/2754)]
+> "I've spent an entire year trying to get the GPU to work with Stable Diffusion, experimenting with Docker, WSL, virtualbox, and even dual-booting Ubuntu. It still doesn't work. My Nvidia GPU just worked. Buying AMD was the biggest mistake I've made in 20 years." [[source](https://github.com/ROCm/ROCm/issues/2754)]
 
-**The pattern repeats across thousands of developers**—GitHub issues, Reddit threads, HackerNews discussions are all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk, **creating a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat. Now developers assume AMD won't work before they even try, while [NVIDIA cracked this years ago](https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/) by winning developers first.
+Stories like this flood GitHub, Reddit, and HackerNews. Even major research institutions default to NVIDIA to avoid software risks. 
 
-**Shareholders pay dearly for this failure** as AMD misses out on the fastest-growing segment in tech—the [global AI chip market was valued at $52.92 billion in 2024 and is projected to reach $295.56 billion by 2030](https://www.nextmsc.com/report/artificial-intelligence-chip-market), growing at a CAGR of 33.2%. AMD management can't fix this alone because hardware-first companies struggle with [organizational inertia](https://www.iese.edu/insight/articles/inertia-management-challenge-digital-transformation/)—what made them successful now blocks software transformation. Rebuilding trust requires external pressure—not just promises. But how do we create that pressure? The answer is coordination.
+**Here's the deeper problem: broken trust creates a toxic cycle.** When AMD tries to engage the community, the best developers don't show up—or leave after being burned. Fewer bug reports. Fewer fixes. Less adoption. **Fewer libraries.** Even great hardware can't escape that gravity.
+
+Community developers volunteer [unofficial ROCm fixes](https://github.com/vladmandic/sdnext/wiki/AMD-ROCm) and [workaround tools](https://www.reddit.com/r/AMDHelp/comments/1kxfns9/possible_solution_for_amd_7000_series_gpu_driver/), but these solutions stay scattered while users struggle with the same problems. **The pattern is toxic:** talented developers learn that helping AMD means wasting time, so they stop trying. Meanwhile, the entire market pays monopoly prices because real competition can't emerge.
+
+## Why This Matters—and What Happens When We Fix It
+
+**Building with AI?** You're paying what we call the **GPU Luxury Tax**—NVIDIA skims [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) while locking you into constrained technical choices.
+
+**Own AMD stock?** You're watching billions slip away as the company misses the fastest-growing tech segment.
+
+**End user?** You're stuck with artificially inflated prices because real competition doesn't exist.
+
+The AI chip market is worth **$52.92 B** today and projected to hit **$295.56 B by 2030**—yet one API still calls the shots.
+
+**When AMD becomes genuinely reliable, everything shifts.** Enterprises escape the GPU Luxury Tax. Startups stop budgeting 2–3× extra for risk-mitigation workarounds. Developer productivity explodes as time shifts from fighting tools to building products. Open-source AI accelerates when CUDA alternatives "just work."
+
+**Result:** Billions for AMD shareholders and broken vendor lock-in across the industry.
 
 > **"NVIDIA's monopoly isn't fate. It's a coordination problem."**
 
-We coordinate as owners, not just users. This isn't just about fixing AMD's software—it's about breaking the most expensive monopoly in tech. Here's what's at stake for everyone involved:
+Coordination problems can be solved. The solution is converting frustrated voices into voting power.
 
-## Why This Matters to *You*
+## The Strategy: From Voice to Vote
 
-**If you're building with AI,** you're paying the "NVIDIA tax"—[1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) because there's no credible alternative—while your technical choices are constrained by vendor lock-in.
+For years, developers have had voice without power. GitHub issues get ignored. Reddit threads change nothing. Frustrations without force.
 
-**If you're an investor,** every portfolio company overpays for compute while AMD is missing the fastest-growing segment in tech. The AI chip market was $52.92B in 2024, projected to reach $295.56B by 2030.
-
-## The Strategy: Developers Become Owners
-
-> **"This is not a petition. This is a lever."**
-
-**We're done begging. We're voting.**
-
-**AMD knows they're vulnerable—** unlike NVIDIA's entrenched position, AMD is still fighting for market share, with their board facing pressure from all sides: investors demanding AI growth, customers frustrated with software, and competitors gaining ground. This makes them uniquely responsive to coordinated shareholder pressure.
-
-Instead of filing GitHub issues that get ignored, we're filing shareholder resolutions that demand board-level responses. Instead of posting frustrated Reddit threads, we're pooling voting shares. Instead of being powerless users, we're becoming owners with legal leverage.
-
-**How this works:** Developers and allies buy AMD shares (even one share = vote), then we file a shareholder resolution demanding software accountability. We rally other shareholders—institutional investors, pension funds, tech-focused funds—who also want AMD to succeed in AI, forcing the board to respond publicly to all shareholders. Real leverage replaces empty promises.
-
-**Why external demands actually help AMD:** Rating agencies don't hurt companies—they help them sell bonds by demanding accountability, and the same principle applies here. While AMD's self-made promises have repeatedly been broken, external accountability gets results by giving AMD the oversight framework they need to rebuild trust systematically.
-
-It's proven—Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares, demonstrating how small activist funds can move giants by rallying other investors.
+**Here's the breakthrough:** Developer frustration is data, and shareholder resolutions turn that data into leverage. We'll turn bug reports, blocked workloads, and lost deals into boardroom mandates. Voice becomes vote. Engine No. 1 won board seats at ExxonMobil through focused shareholder action. **Real leverage replaces empty promises.**
 
 > [**How does shareholder activism work? Read our complete guide.**](/activism/)
 
 ## Our Demands: Accountability, Not Excuses
 
-**What exactly are we demanding?** Not vague promises, but concrete accountability. To restore trust and unlock AMD's potential, we call on AMD to:
+To restore trust and unlock AMD's potential, we demand concrete accountability:
 
-- **Make credible, public, and ongoing commitments** to open-source software development and support, such as publishing detailed roadmaps and progress reports
-- **Establish transparent processes** for engaging and incorporating input from developers and researchers, for example through a Developer Advisory Board or regular open forums  
-- **Implement Board-level oversight and transparent reporting**, including tracking and disclosing key metrics on software compatibility, installation success, and user satisfaction
-- **Provide clear and public support timelines** for a broad range of GPUs, including consumer and academic hardware
+- **Credible Commitments** — Public roadmaps and progress reports for GPU software libraries and downstream ecosystem support
+- **Developer Engagement** — Transparent processes like Developer Advisory Boards and regular open forums
+- **Board Oversight** — Track and disclose key metrics: software compatibility, installation success, user satisfaction
+- **Clear Timelines** — Public support commitments for consumer and academic GPUs
 
-These demands focus on credibility, transparency, engagement, and accountability—designed to be compatible with SEC shareholder resolution rules while addressing the core trust issues that prevent AMD adoption.
-
-## The Payoff: Breaking the CUDA Monopoly
-
-NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that was $52.92B in 2024 and is projected to reach $295.56B by 2030. They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
-
-**When AMD restores software credibility, everything changes:** Enterprises escape the "NVIDIA tax" as real competition emerges, venture startups stop budgeting 2-3x for compute to avoid AMD risk, and developer productivity explodes as time shifts from fighting tools to building products. Open source AI accelerates when alternatives to CUDA "just work," while AMD captures meaningful share of the fastest-growing tech market in history.
-
-**This unlocks billions for AMD shareholders and breaks vendor lock-in across the entire industry.**
+These demands target the core trust issues that prevent AMD adoption while staying within SEC shareholder resolution guidelines.
 
 ## How You Can Help
 
-**Every broken installation. Every abandoned project. Every time you paid the NVIDIA tax. This is how we fix it—not as users begging for scraps, but as owners demanding results.**
+**Every broken installation. Every abandoned project. Every time you paid the GPU Luxury Tax. This is how we fix it—not as users begging for scraps, but as owners demanding results.**
 
-**🗳️ Buy a share and pledge your vote—** even one AMD share gives you a vote at the table
+**💻 Share your story** — Add to our [Developer Priorities](/priorities/). Your experience is our evidence.
 
-**💻 Document your pain** by adding to our [Developer Priorities](/priorities/)
+**🗳️ Pledge your shares** — Join the voting bloc (even a single share counts). Every vote tightens our leverage.
 
-**🚀 Amplify the signal** by sharing with founders, angels, and developers who get it
+**🚀 Amplify the signal** — Share with founders, angels, and fellow developers who get it.
 
 **📧 Ready to coordinate?** Contact us at [team@unlockgpu.com](mailto:team@unlockgpu.com)
 
+**Shared win:** When developers and investors row in the same direction, we unlock a trillion-dollar wave of AI innovation—and AMD becomes the growth story of the decade.
+
 ---
 
-> **"Own where you code. Vote where you build. Break the monopoly."**
+> **Let's build the GPU future we've all been waiting for—together.** 
 
 ---
 
 **Disclaimers:** This content contains forward-looking statements about market projections, AMD's potential performance, and industry trends that involve risks and uncertainties. Actual results may differ materially. All market data and financial projections are current as of their respective sources unless otherwise noted.
 
-The authors may hold financial positions in AMD or related securities. This content is for informational purposes only and does not constitute investment advice. Readers should conduct their own research and consult financial advisors before making investment decisions. 
+The authors may hold financial positions in AMD or related securities. This content is for informational purposes only and does not constitute investment advice. Readers should conduct their own research and consult financial advisors before making investment decisions.
+
