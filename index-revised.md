@@ -47,7 +47,6 @@ This isn't just about fixing AMD's software—it's about breaking the most expen
 **If you're building with AI:**
 - You're paying the "NVIDIA tax" - [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) because there's no credible alternative
 - Your technical choices are constrained by vendor lock-in
-- Your compute budget is 2-3x higher than it should be
 
 **If you're an investor:**
 - Every portfolio company overpays for compute
