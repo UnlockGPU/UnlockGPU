@@ -8,16 +8,14 @@ permalink: /manifesto-revised
 
 **Developers speak. Shareholders vote. Together we break the lock.**
 
-*We are AMD shareholders turning real developer pain into board-level action.*
-
-**Guess how many of the world's top 20 AI startups use something other than NVIDIA?**  
-**Just one—and it's not AMD.** Meanwhile, **13 of the world's top 20 supercomputers run AMD silicon.[^gpu-count-method]**
-
-[^gpu-count-method]: Full tables and sourcing in our report: [“Supercomputers vs. AI Startups: GPU/Compute Provider Table (2025)”](/reports/ai-supercomputer-vs-startup-gpu-table).
+We are AMD shareholders turning real developer pain into board-level action.
 
 ## Why hasn't AMD broken the CUDA monopoly?
 
-It's not the hardware. AMD's MI300X competes directly with NVIDIA's H100, and AMD powers the world's fastest supercomputers.
+**Guess how many of the world's top 20 AI startups use something other than NVIDIA?** Just one—and it's not AMD. Yet 13 of the world's top 20 supercomputers run AMD silicon.[^gpu-count-method] 
+Hardware is not the problem. AMD's MI300X competes directly with NVIDIA's H100, and AMD powers the world's fastest supercomputers.
+
+[^gpu-count-method]: Full tables and sourcing in our report: ["Supercomputers vs. AI Startups: GPU/Compute Provider Table (2025)"](/reports/ai-supercomputer-vs-startup-gpu-table).
 
 **The problem is broken trust.** Years of unstable releases and unfulfilled promises have poisoned the developer ecosystem, leaving NVIDIA with [massive market dominance](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) despite AMD's competitive hardware.
 
@@ -35,13 +33,13 @@ Community developers volunteer [unofficial ROCm fixes](https://github.com/vladma
 
 ## Why This Matters—and What Happens When We Fix It
 
-**Building with AI?** You're paying what we call the **GPU Luxury Tax**—NVIDIA skims [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) while locking you into constrained technical choices.
+**Building with AI?** You're paying the **GPU Luxury Tax**—NVIDIA skims [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) while locking you into constrained technical choices.
 
 **Own AMD stock?** You're watching billions slip away as the company misses the fastest-growing tech segment.
 
 **End user?** You're stuck with artificially inflated prices because real competition doesn't exist.
 
-The AI chip market is worth **$52.92 B** today and projected to hit **$295.56 B by 2030**—yet one API still calls the shots.
+The AI chip market is worth **$50 B** today and projected to hit **$300 B by 2030**—yet one API still calls the shots.
 
 **When AMD becomes genuinely reliable, everything shifts.** Enterprises escape the GPU Luxury Tax. Startups stop budgeting 2–3× extra for risk-mitigation workarounds. Developer productivity explodes as time shifts from fighting tools to building products. Open-source AI accelerates when CUDA alternatives "just work."
 
@@ -72,7 +70,7 @@ These demands target the core trust issues that prevent AMD adoption while stayi
 
 ## How You Can Help
 
-**Every broken installation. Every abandoned project. Every time you paid the GPU Luxury Tax. This is how we fix it—not as users begging for scraps, but as owners demanding results.**
+**Every broken installation. Every abandoned project. Every time you paid the GPU Luxury Tax. We're turning that frustration into shareholder leverage.**
 
 **💻 Share your story** — Add to our [Developer Priorities](/priorities/). Your experience is our evidence.
 
@@ -84,12 +82,11 @@ These demands target the core trust issues that prevent AMD adoption while stayi
 
 **Shared win:** When developers and investors row in the same direction, we unlock a trillion-dollar wave of AI innovation—and AMD becomes the growth story of the decade.
 
----
-
 > **Let's build the GPU future we've all been waiting for—together.** 
 
 ---
 
+---
 **Disclaimers:** This content contains forward-looking statements about market projections, AMD's potential performance, and industry trends that involve risks and uncertainties. Actual results may differ materially. All market data and financial projections are current as of their respective sources unless otherwise noted.
 
 The authors may hold financial positions in AMD or related securities. This content is for informational purposes only and does not constitute investment advice. Readers should conduct their own research and consult financial advisors before making investment decisions.
