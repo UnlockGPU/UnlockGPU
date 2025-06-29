@@ -36,9 +36,9 @@ Now developers assume AMD won't work before they even try. [NVIDIA cracked this 
 
 But how do we create that pressure? The answer is coordination.
 
-> "NVIDIA's monopoly isn't fate. It's a coordination problem."
+> **"NVIDIA's monopoly isn't fate. It's a coordination problem."**
 
-**We coordinate as owners, not just users.**
+We coordinate as owners, not just users.
 
 This isn't just about fixing AMD's software—it's about breaking the most expensive monopoly in tech. Here's what's at stake for everyone involved:
 
@@ -65,7 +65,7 @@ This isn't just about fixing AMD's software—it's about breaking the most expen
 Instead of filing GitHub issues that get ignored, we're filing shareholder resolutions that demand board-level responses. Instead of posting frustrated Reddit threads, we're pooling voting shares. Instead of being powerless users, we're becoming owners with legal leverage.
 
 **How this works:**
-- Developers and allies buy AMD shares (even one share = voice)
+- Developers and allies buy AMD shares (even one share = vote)
 - We file a shareholder resolution demanding software accountability
 - We rally other shareholders—institutional investors, pension funds, tech-focused funds—who also want AMD to succeed in AI
 - Board must respond publicly to all shareholders
@@ -105,7 +105,7 @@ NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-
 
 **Every broken installation. Every abandoned project. Every time you paid the NVIDIA tax. This is how we fix it—not as users begging for scraps, but as owners demanding results.**
 
-**🗳️ Buy a share. Pledge your vote.** Even one AMD share gives you a voice at the table
+**🗳️ Buy a share. Pledge your vote.** Even one AMD share gives you a vote at the table
 
 **💻 Document your pain.** Add to our [Developer Priorities](/priorities/)
 
