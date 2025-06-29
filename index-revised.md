@@ -70,6 +70,8 @@ Instead of filing GitHub issues that get ignored, we're filing shareholder resol
 - Board must respond publicly to all shareholders
 - Real leverage replaces empty promises
 
+**Why external demands actually help AMD:** Rating agencies don't hurt companies—they help them sell bonds by demanding accountability. Same principle here. Self-made promises get broken. External accountability gets results. We're giving AMD the oversight framework they need to rebuild trust systematically.
+
 It's proven. Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares. Small activist funds move giants by rallying other investors.
 
 > [**How does shareholder activism work? Read our complete guide.**](/activism/)
