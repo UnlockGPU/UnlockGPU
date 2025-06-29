@@ -4,9 +4,11 @@ layout: page
 permalink: /manifesto-revised
 ---
 
-**Unlock the GPU: A developer–investor alliance can force AMD to fix its software and break NVIDIA's monopoly.**
+# Breaking the GPU Lock: When Developers Become Shareholders
 
-This is the first campaign where developers become investors—uniting with existing shareholders to act as owners and demand real change at the boardroom level.
+**What if developers had votes, not just voices?**
+
+*This is the first campaign where developers unite with investors—combining technical expertise with shareholder power to break vendor lock-in at the boardroom level.*
 
 ## Why hasn't AMD broken the CUDA monopoly?
 
@@ -22,7 +24,7 @@ ROCm is ["the Dark Souls of machine learning"](https://linustechtips.com/topic/1
 
 **This pattern repeats across thousands of developers.** GitHub issues, Reddit threads, HackerNews discussions—all filled with similar stories of weeks wasted on AMD setup failures. Even research institutions default to NVIDIA to avoid the software risk.
 
-**This costs shareholders dearly.** AMD is missing out on the fastest-growing segment in tech—the AI chip market in 2024 was around $30B but expanding exponentially toward $400B+ by 2030.
+**This costs shareholders dearly.** AMD is missing out on the fastest-growing segment in tech—the AI chip market in 2024 was around $30B but expanding exponentially toward $400B+ by 2030 (data current as of Q1 2025).
 
 **This creates a vicious cycle:** AMD ships buggy software → developers get burned → they warn others → fewer people try AMD → less adoption → AMD can't find/fix bugs → repeat.
 
@@ -38,32 +40,57 @@ But how do we create that pressure? The answer is coordination.
 
 **We coordinate as owners, not just users.**
 
-## Our Weapon: Shareholder Activism
+This isn't just about fixing AMD's software—it's about breaking the most expensive monopoly in tech. Here's what's at stake for everyone involved:
 
-> "This is not a petition. This is a lever."
+## Why This Matters to *You*
 
-**We file a resolution, not a petition.** Real power. Real leverage. We force AMD's Board to address credibility and accountability at the highest level.
+**If you're building with AI:**
+- You're paying the "NVIDIA tax" - [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) because there's no credible alternative
+- Your technical choices are constrained by vendor lock-in
+- Your compute budget is 2-3x higher than it should be
 
-**It works.** Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares. Small activist funds can move giants by rallying other investors.
+**If you're an investor:**
+- Every portfolio company overpays for compute
+- AMD is missing the fastest-growing segment in tech
+- The AI chip market was $30B in 2024, projected to reach $400B+ by 2030
 
-**We're creating a "credit rating agency for developer trust."** Public scorecards. Transparent standards. Real consequences for broken promises.
+## The Strategy: Developers Become Owners
 
-> [**How does this work? Read our Shareholder Activism Guide.**](/activism/)  
+> **"This is not a petition. This is a lever."**
 
-## Our Demands
+**We're done begging. We're voting.**
+
+**AMD knows they're vulnerable.** Unlike NVIDIA's entrenched position, AMD is still fighting for market share. Their board faces pressure from all sides—investors demanding AI growth, customers frustrated with software, and competitors gaining ground. This makes them uniquely responsive to coordinated shareholder pressure.
+
+Instead of filing GitHub issues that get ignored, we're filing shareholder resolutions that demand board-level responses. Instead of posting frustrated Reddit threads, we're pooling voting shares. Instead of being powerless users, we're becoming owners with legal leverage.
+
+**How this works:**
+- Developers and allies buy AMD shares (even one share = voice)
+- We file a shareholder resolution demanding software accountability
+- We rally other shareholders—institutional investors, pension funds, tech-focused funds—who also want AMD to succeed in AI
+- Board must respond publicly to all shareholders
+- Real leverage replaces empty promises
+
+It's proven. Engine No. 1 won board seats at ExxonMobil with just 0.02% of shares. Small activist funds move giants by rallying other investors.
+
+> [**How does shareholder activism work? Read our complete guide.**](/activism/)
+
+## Our Demands: Accountability, Not Excuses
+
+**What exactly are we demanding?** Not vague promises, but concrete accountability:
 
 To restore trust and unlock AMD's potential, we call on AMD to:
 
-- Make credible, public, and ongoing commitments to open-source software development and support, such as publishing detailed roadmaps and progress reports.
-- Establish transparent processes for engaging and incorporating input from developers and researchers, for example through a Developer Advisory Board or regular open forums.
-- Implement Board-level oversight and transparent reporting, including tracking and disclosing key metrics on software compatibility, installation success, and user satisfaction.
-- Provide clear and public support timelines for a broad range of GPUs, including consumer and academic hardware.
+- **Make credible, public, and ongoing commitments** to open-source software development and support, such as publishing detailed roadmaps and progress reports
+- **Establish transparent processes** for engaging and incorporating input from developers and researchers, for example through a Developer Advisory Board or regular open forums  
+- **Implement Board-level oversight and transparent reporting**, including tracking and disclosing key metrics on software compatibility, installation success, and user satisfaction
+- **Provide clear and public support timelines** for a broad range of GPUs, including consumer and academic hardware
 
-These demands focus on credibility, transparency, engagement, and accountability.[^1]
+These demands focus on credibility, transparency, engagement, and accountability—designed to be compatible with SEC shareholder resolution rules while addressing the core trust issues that prevent AMD adoption.
 
 ## The Payoff: Breaking the CUDA Monopoly
 
-NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that hit $500B and continues growing exponentially. They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
+NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-shares-hit-a-record-as-chipmaker-market-cap-tops-3point4-trillion.html) in a market that was $30B in 2024 and is projected to reach $400B+ by 2030 (data current as of Q1 2025). They command [1,000% profit margins](https://www.tomshardware.com/news/nvidia-makes-1000-profit-on-h100-gpus-report) on some chips—monopoly pricing that exists only because customers can't risk alternatives.
 
 **When AMD restores software credibility, everything changes:**
 - Enterprises escape the "NVIDIA tax" as real competition emerges
@@ -76,18 +103,22 @@ NVIDIA has [dominated AI training chips](https://www.cnbc.com/2024/10/14/nvidia-
 
 ## How You Can Help
 
-**🚀 Amplify:** Share with founders, angels, developers who get the GPU crisis. [Fork on GitHub](https://github.com/UnlockGPU/UnlockGPU)
+**Every broken installation. Every abandoned project. Every time you paid the NVIDIA tax. This is how we fix it—not as users begging for scraps, but as owners demanding results.**
 
-**💻 Developers:** Document your AMD pain points in [Developer Priorities](/priorities/)
+**🗳️ Buy a share. Pledge your vote.** Even one AMD share gives you a voice at the table
 
-**🗳️ Buy a share. Pledge your vote.** Even one share = voice at the table. [Learn shareholder activism](/activism/)
+**💻 Document your pain.** Add to our [Developer Priorities](/priorities/)
 
-**Ready?** [team@unlockgpu.com](mailto:team@unlockgpu.com)
+**🚀 Amplify the signal.** Share with founders, angels, developers who get it
 
----
-
-**We're tired of being locked out. We want to build, not beg. Developers know what's broken. Investors can unlock the value. Join us.** 
+**📧 Ready to coordinate?** [team@unlockgpu.com](mailto:team@unlockgpu.com)
 
 ---
 
-[^1]: Our demands are designed to be compatible with what is possible in a shareholder resolution under SEC rules: they focus on credibility, transparency, engagement, and accountability, not prescriptive technical or budgetary details. 
+> **"Own where you code. Vote where you build. Break the monopoly."**
+
+---
+
+**Disclaimers:** This content contains forward-looking statements about market projections, AMD's potential performance, and industry trends that involve risks and uncertainties. Actual results may differ materially. All market data and financial projections are current as of Q1 2025 unless otherwise noted.
+
+The authors may hold financial positions in AMD or related securities. This content is for informational purposes only and does not constitute investment advice. Readers should conduct their own research and consult financial advisors before making investment decisions. 
