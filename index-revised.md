@@ -93,30 +93,26 @@ For years, developers have had **voice without power**. GitHub issues get ignore
 
 ## Our Demands: Board Accountability on the Crisis
 
-AMD's Board has been remarkably quiet about the $300B market opportunity they're missing. We're changing that with a shareholder resolution that forces transparency on the credibility crisis—not micromanaging engineering (which SEC rules would exclude), but governance, which is exactly what boards are for.
+We're targeting governance, not engineering—forcing the Board to acknowledge and manage the credibility crisis that's costing shareholders billions.
 
 ### 1. Acknowledge the Risk
 **The Board must produce a comprehensive risk assessment of how AMD's GPU software credibility crisis threatens shareholder value.**
 
-When AI startups avoid your hardware despite competitive specs, that's a business risk. Boards exist to identify business risks. This one's been documented on GitHub for years.
-
-What we need: Quantified market share losses, threat mapping of developer exodus, and a board-level strategy to rebuild trust and capture our share of the $300B market.
-
-Every frustrated GitHub issue becomes evidence for our case. Every abandoned ROCm project proves the point. Every developer who gave up and bought NVIDIA demonstrates material risk the Board should have been managing.
-
 ### 2. Show Your Work  
 **The Board must annually disclose how they oversee GPU software quality and developer adoption.**
 
-If they're governing this crisis, they should demonstrate it. If they're not, shareholders deserve to know.
+## Why These Demands Work
 
-What we need: Governance metrics the Board reviews, how software performance connects to executive compensation, and proof of oversight beyond quarterly earnings presentations.
+**The Board has been silent on a $300B opportunity.** Time to make some noise. Our approach is surgical: hit governance, not engineering. SEC rules favor transparency proposals over operational mandates, so we're forcing accountability where it hurts—board oversight. Once they're on record admitting the crisis, we can leverage that admission in public letters suggesting concrete solutions.
 
-This creates ongoing accountability. Once disclosed, these governance practices become a matter of public record—and public scrutiny. No more hiding behind vague statements about "software investment."
+**Every broken installation is evidence.** Every abandoned ROCm project. Every developer who gave up and bought NVIDIA. That's not just frustration—it's material shareholder risk the Board should have been managing. When we force them to quantify the exodus and map the threat, they can't hide behind vague "software investment" promises anymore. When we demand governance metrics, they have to show their work—or admit they've been asleep at the wheel.
+
+**Here's the genius:** Once disclosed, this becomes public record. Public scrutiny. Ongoing accountability. No more quarterly hand-waving about developer adoption without concrete oversight metrics. **The vicious cycle breaks** when the Board finally owns the crisis instead of ignoring it.
 
 ## How You Can Help
 
 **Every broken installation. Every abandoned project. Every time you paid the
-*GPU Luxury Tax. We're turning that frustration into shareholder leverage.**
+GPU Luxury Tax. We're turning that frustration into shareholder leverage.**
 
 **🔧 Improve our content** — All our texts are [open source on GitHub](https://github.com/UnlockGPU/UnlockGPU). Found a typo? Better argument? Submit a PR.
 
