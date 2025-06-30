@@ -40,7 +40,7 @@ biggest mistake I've made in 20 years."
 Stories like this flood GitHub, Reddit, and HackerNews. Even major research
 institutions default to NVIDIA to avoid software risks. 
 
-**Here's the deeper problem: broken trust creates a toxic cycle.** When AMD
+**Here's the deeper problem: broken trust creates a vicious cycle.** When AMD
 tries to engage the community, the best developers don't show up—or leave after
 being burned. Fewer bug reports. Fewer fixes. Less adoption. **Fewer
 libraries.** Even great hardware can't escape that gravity.
@@ -147,7 +147,7 @@ risks and uncertainties. Actual results may differ materially. All market data
 and financial projections are current as of their respective sources unless
 otherwise noted.
 
-The authors may hold financial positions in AMD or related securities. This
+The authors hold financial positions in AMD and related securities. This
 content is for informational purposes only and does not constitute investment
 advice. Readers should conduct their own research and consult financial advisors
 before making investment decisions.
